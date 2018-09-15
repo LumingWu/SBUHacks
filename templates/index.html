@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <!-- Graph -->
-    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <!-- Local -->
     <script src="static/script/app.js"></script>
     <link rel="stylesheet" href="static/style/style.css">
@@ -52,6 +52,7 @@
                             <div class="col-3">
                                 <div class="input-group mb-3">
                                     <select id="feature_selection">
+                                        <option value="select" selected>Select</option>
                                         <option value="age">Age</option>
                                         <option value="race">Race</option>
                                         <option value="tumor_stage">Tumor Stage</option>
@@ -63,6 +64,12 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+
                     </div>
                 </div>
             </div>
