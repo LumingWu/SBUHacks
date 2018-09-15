@@ -1,3 +1,7 @@
+#main-background{
+    min-height:720px;
+}
+
 .input-group-prepend {
     width: 100px;
 }
@@ -6,6 +10,6 @@
     border: none;
 }
 
-.extended-height {
-    height: 600px;
+#graph {
+    overflow:auto;
 }
