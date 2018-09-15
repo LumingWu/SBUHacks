@@ -1,0 +1,612 @@
+ID,age,race,tumor_stage,tobacco_history,amount_of_alcohol_consumption_per_day,gender,os,os_event,histological_type
+TCGA-CV-7421-01A,76,white,stage iva,3,NA,male,2,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61I-01A,63,black or african american,stage iva,1,NA,male,2,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CX-7082-01A,82,white,stage iva,4,0,male,11,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A4C1-01A,41,black or african american,stage iva,1,NA,female,11,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A61W-01A,51,asian,stage iva,2,1,male,14,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7414-01A,78,white,stage iva,3,NA,male,14,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A463-01A,82,white,stage iva,1,NA,female,23,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7374-01A,67,white,not reported,2,NA,female,30,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45V-01A,87,white,stage iva,1,NA,female,32,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7102-01A,76,white,stage iva,4,1,female,56,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A67D-01A,55,white,stage ii,2,0,male,56,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T4-01A,54,white,stage iva,2,3.5,male,62,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7255-01A,32,white,stage iva,1,NA,female,64,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7255-11A,32,white,stage iva,1,NA,female,64,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6934-11A,66,white,stage iva,2,NA,female,65,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6934-01A,66,white,stage iva,2,NA,female,65,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DG-01A,49,white,not reported,3,4,male,69,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6961-01A,61,white,stage ii,4,2,male,76,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6961-11A,61,white,stage ii,4,2,male,76,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6824-01A,61,white,stage iva,2,1,male,77,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A642-01A,57,white,stage ivb,4,0,male,82,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A71A-06A,67,white,stage iva,3,NA,male,86,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A71A-01A,67,white,stage iva,3,NA,male,86,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5326-01A,67,white,stage iva,4,2,male,89,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JV-01A,62,white,stage iva,1,NA,female,90,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A50I-01A,72,white,stage iva,2,1,male,92,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7371-01A,45,white,stage iii,2,NA,female,94,1,Head & Neck Squamous Cell Carcinoma
+TCGA-T3-A92N-01A,79,black or african american,stage iva,2,NA,male,95,1,Head & Neck Squamous Cell Carcinoma
+TCGA-4P-AA8J-01A,66,black or african american,stage iva,NA,NA,male,102,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7370-01A,72,white,not reported,4,NA,female,105,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7429-01A,55,white,stage iva,4,NA,male,107,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6871-01A,75,white,not reported,4,NA,male,108,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JU-01A,61,white,stage ivb,2,12,female,110,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A6HZ-11A,79,white,stage iii,1,NA,female,111,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A6HZ-01A,79,white,stage iii,1,NA,female,111,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6995-01A,78,white,stage iva,2,NA,male,112,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6873-01A,28,white,stage iva,2,0,male,122,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6962-01A,65,white,stage iva,4,NA,male,126,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6962-11A,65,white,stage iva,4,NA,male,126,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5334-01A,87,white,stage iva,3,NA,male,129,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6227-01A,77,white,stage iva,3,3,male,129,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A634-01A,56,white,stage iva,2,NA,male,130,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A640-01A,40,white,stage iva,1,0,female,134,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4227-01A,66,white,stage iva,3,3,male,134,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4726-01A,68,white,stage iva,2,NA,male,142,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7236-01A,77,white,stage iva,NA,NA,female,144,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6938-01A,87,white,stage ii,3,NA,male,144,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6938-11A,87,white,stage ii,3,NA,male,144,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4225-01A,73,white,not reported,4,1,male,146,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7252-11A,62,black or african american,stage iva,1,NA,female,151,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7252-01A,62,black or african american,stage iva,1,NA,female,151,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7398-01A,53,white,stage ii,2,NA,female,156,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7101-01A,80,white,stage ii,2,3,male,160,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7101-11A,80,white,stage ii,2,3,male,160,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61K-01A,70,white,stage iva,2,NA,female,161,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6936-11A,68,white,stage iva,2,0,male,166,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6936-01A,68,white,stage iva,2,0,male,166,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A8Z8-01A,60,black or african american,stage ivc,2,12,female,171,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DD-01A,44,black or african american,stage iva,2,2,male,173,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7399-01A,60,white,stage iva,2,NA,female,181,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JD-01A,82,white,not reported,3,NA,female,182,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6478-01A,66,white,not reported,4,NA,female,183,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6952-01A,65,white,stage iva,4,3,female,185,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6952-11A,65,white,stage iva,4,3,female,185,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4217-01A,68,black or african american,stage iva,2,10,male,187,0,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A67G-01A,53,white,stage iva,1,2,female,190,0,Head & Neck Squamous Cell Carcinoma
+TCGA-C9-A47Z-01A,72,asian,stage iii,1,NA,female,191,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JM-01A,85,white,not reported,1,NA,male,194,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7438-11A,87,white,stage i,1,NA,female,194,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7438-01A,87,white,stage i,1,NA,female,194,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JO-01B,69,white,stage iva,4,NA,male,197,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45X-01A,47,white,stage iva,2,NA,male,198,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6020-01A,58,black or african american,stage iii,2,NA,male,205,1,Head & Neck Squamous Cell Carcinoma
+TCGA-T2-A6WX-01A,73,white,not reported,1,0,female,209,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A6I0-11A,56,white,stage iva,3,4,male,210,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-A6I0-01A,56,white,stage iva,3,4,male,210,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5978-01A,53,black or african american,stage ivb,2,NA,female,215,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5978-11A,53,black or african american,stage ivb,2,NA,female,215,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A465-01A,24,white,stage iii,1,NA,male,215,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DB-01A,24,white,stage i,1,0,female,216,0,Head & Neck Squamous Cell Carcinoma
+TCGA-T2-A6X0-01A,49,white,not reported,4,0,male,216,0,Head & Neck Squamous Cell Carcinoma
+TCGA-MZ-A5BI-01A,53,white,not reported,NA,0,male,217,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6956-11A,67,white,stage iii,2,NA,male,217,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6956-01A,67,white,stage iii,2,NA,male,217,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7434-01A,64,white,stage iva,4,1,male,218,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7434-11A,64,white,stage iva,4,1,male,218,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6IG-01A,69,white,stage iii,4,NA,male,222,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A63T-01A,60,white,stage iva,2,1.7,male,225,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EM-01A,65,white,stage iii,1,NA,female,232,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6487-01A,50,white,stage i,4,NA,male,234,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DF-01A,80,white,stage iva,NA,0,female,238,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A51X-01A,30,white,stage iva,2,NA,male,242,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7099-01A,85,white,stage ii,3,NA,female,243,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5363-01A,48,black or african american,stage ivb,2,NA,male,253,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-AA3K-01A,60,black or african american,stage iva,2,NA,male,253,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6959-01A,48,white,stage iii,1,1,male,256,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6959-11A,48,white,stage iii,1,1,male,256,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5370-01A,78,white,stage iii,4,NA,male,259,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5358-01A,60,white,stage ii,4,6,male,261,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-A6UO-01A,61,white,stage iva,2,NA,female,268,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7100-01A,66,white,stage iii,3,NA,male,274,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-4078-01A,83,white,not reported,4,NA,male,276,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6021-01A,63,white,not reported,4,NA,female,276,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4224-01A,52,white,stage iva,1,1,male,278,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7377-01A,58,white,stage iva,2,NA,male,279,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6022-01A,49,white,stage iva,2,NA,male,281,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6493-01A,69,black or african american,stage iva,3,NA,male,282,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-4075-01A,49,black or african american,stage iii,2,5,male,283,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6II-01A,52,white,stage iva,2,NA,male,284,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6517-01A,59,white,stage iii,4,3,male,292,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6441-11A,60,white,stage iii,4,NA,male,292,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6441-01A,60,white,stage iii,4,NA,male,292,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7413-01A,74,white,stage ii,NA,NA,female,294,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7413-11A,74,white,stage ii,NA,NA,female,294,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6935-11A,67,white,stage iva,2,0,male,295,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6935-01A,67,white,stage iva,2,0,male,295,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6481-01A,47,white,not reported,1,NA,male,311,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5332-01A,87,white,stage iii,4,NA,male,317,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6K2-01A,79,white,stage iva,3,7,male,317,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6988-01A,47,white,stage iva,4,6,male,318,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CX-7085-01A,77,white,stage i,3,0,female,321,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-A5HY-01A,64,white,stage iva,2,NA,male,321,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7180-01A,34,white,stage ii,3,6,male,327,1,Head & Neck Squamous Cell Carcinoma
+TCGA-KU-A6H8-01A,41,white,stage iva,2,2,male,327,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A5QF-01A,49,white,stage iva,1,NA,male,330,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6955-11A,74,white,stage ii,1,NA,female,334,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6955-01A,74,white,stage ii,1,NA,female,334,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DI-01A,62,black or african american,not reported,2,2,male,336,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6024-01A,66,white,stage iva,2,NA,male,337,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5333-01A,74,white,stage ii,3,NA,male,341,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6941-01A,51,white,stage iii,2,NA,male,342,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6482-01A,62,black or african american,not reported,4,NA,male,345,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6826-01A,64,white,stage iva,1,NA,female,348,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5365-01A,38,white,stage ivb,2,NA,male,351,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DA-01A,41,white,stage iva,2,0,female,351,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5367-01A,60,white,stage iva,4,NA,female,352,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4C7-01A,88,white,stage iii,3,1,male,353,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6484-01A,67,asian,stage iva,1,NA,female,354,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6998-01A,53,white,stage iva,2,NA,male,357,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-5247-01A,48,black or african american,not reported,2,NA,male,358,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A622-01A,75,white,stage iii,1,1,male,359,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5366-01A,51,white,stage iva,2,6,male,360,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61G-01A,57,white,stage iva,4,NA,male,360,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7253-01A,58,black or african american,stage iva,NA,NA,male,361,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6480-01A,53,white,not reported,1,NA,male,362,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6945-01A,41,white,stage iva,2,NA,male,366,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A641-01A,47,white,stage iva,2,0,male,367,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EQ-01A,57,white,stage iva,1,NA,male,368,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A8ZA-01A,60,black or african american,not reported,2,3,male,371,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A4ZB-01A,61,white,stage iii,2,NA,male,376,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A63W-01A,48,white,stage iva,4,0,female,377,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5359-01A,59,white,stage iva,2,NA,male,377,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A624-01A,73,white,stage ii,1,1,male,378,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6488-01A,68,white,stage ii,1,NA,female,379,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CH-01A,58,asian,stage ii,1,0,male,379,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5369-01A,90,white,stage iva,2,NA,female,380,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A67F-01A,60,white,stage iva,1,0,female,384,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6872-01A,47,white,not reported,2,6,male,384,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7097-01A,53,white,stage ii,4,3,male,385,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7097-11A,53,white,stage ii,4,3,male,385,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-8634-01A,51,white,stage i,2,7,female,385,1,Head & Neck Squamous Cell Carcinoma
+TCGA-C9-A480-01A,45,asian,stage iii,1,NA,female,386,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6IJ-01A,71,white,stage iii,4,NA,male,387,0,Head & Neck Squamous Cell Carcinoma
+TCGA-RS-A6TO-01A,82,white,stage iva,1,NA,female,387,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6ES-01A,50,white,stage iva,NA,NA,male,389,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7389-01A,55,black or african american,not reported,2,1,male,392,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A8Z7-01A,59,black or african american,stage iva,2,0,male,392,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CN-4729-01A,73,white,stage iii,4,3,male,392,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-A6UM-01A,52,white,stage iii,4,NA,male,393,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7104-01A,61,white,stage iva,1,NA,female,393,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4736-01A,70,white,not reported,4,2,female,395,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T6-01A,53,white,stage iva,1,1,male,395,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4742-01A,48,white,stage iva,2,6,female,397,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T8-01A,54,white,stage iva,2,5,male,400,0,Head & Neck Squamous Cell Carcinoma
+TCGA-TN-A7HJ-01A,51,white,stage iva,1,NA,male,403,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6515-01A,82,white,stage ii,1,NA,female,403,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6225-01A,65,white,stage iii,4,NA,male,403,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5970-01A,59,white,stage iva,4,NA,male,406,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5970-11A,59,white,stage iva,4,NA,male,406,1,Head & Neck Squamous Cell Carcinoma
+TCGA-KU-A66S-01A,69,white,stage iii,2,NA,female,406,1,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-H7-7774-01A,75,white,stage iva,4,0,female,407,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DJ-01A,62,asian,stage iva,4,0,male,407,1,Head & Neck Squamous Cell Carcinoma
+TCGA-TN-A7HI-01A,56,white,stage iva,2,NA,male,412,0,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-A6C4-11A,35,white,stage iva,2,0,female,414,1,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-A6C4-01A,35,white,stage iva,2,0,female,414,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-4076-01A,39,white,not reported,2,NA,male,415,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61L-01A,72,white,stage ii,1,NA,female,416,0,Head & Neck Squamous Cell Carcinoma
+TCGA-T3-A92M-01A,52,black or african american,stage iva,2,NA,male,417,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61O-01A,43,white,stage iva,1,NA,male,421,1,"Head & Neck Squamous Cell Carcinoma, Spindle Cell Variant"
+TCGA-HD-A633-01A,74,white,stage iva,1,NA,male,421,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EP-01A,62,white,stage iii,3,NA,male,424,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JK-01A,59,not reported,stage iva,4,NA,male,424,1,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7588-01A,66,white,not reported,4,10,male,427,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CG-01A,78,white,stage iii,4,0,female,430,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4738-01A,53,white,stage iva,2,17,male,436,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A51W-01A,52,white,stage i,2,7,female,437,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6DE-01A,70,white,stage ii,2,1,female,440,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-7632-01A,68,white,stage iva,3,NA,female,441,0,Head & Neck Squamous Cell Carcinoma
+TCGA-WA-A7H4-01A,69,white,stage ii,2,NA,male,443,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-8224-01A,63,white,stage iva,1,5,male,446,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A8Z9-01B,56,black or african american,stage iva,2,NA,male,449,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6870-01A,60,black or african american,not reported,2,NA,female,451,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7424-01A,67,asian,stage iva,4,NA,male,453,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7424-11A,67,asian,stage iva,4,NA,male,453,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6228-01A,71,white,stage iva,2,NA,female,456,1,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-8502-01A,50,white,stage iva,2,8,male,458,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6950-01A,64,white,stage iva,4,5,male,459,1,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-8501-01A,54,white,stage iva,2,1,male,461,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-4074-01A,69,white,stage iva,2,NA,male,462,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A468-01A,42,not reported,stage iva,2,NA,male,464,1,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-AA3J-01A,69,black or african american,stage i,4,NA,male,466,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-MT-A7BN-01A,74,white,stage iva,1,0,male,469,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A6SH-01A,55,black or african american,stage iii,3,NA,male,471,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6868-01B,53,black or african american,not reported,4,NA,male,472,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6492-01A,78,white,stage iii,2,NA,male,479,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6219-01A,50,white,stage iva,2,1.7,female,479,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A5Q6-01A,49,white,stage iva,4,NA,male,480,1,Head & Neck Squamous Cell Carcinoma
+TCGA-T2-A6WZ-01A,53,white,not reported,2,3.5,male,484,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-7630-01A,49,white,stage ii,1,NA,male,485,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T7-01A,55,white,stage iva,2,6,male,487,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MZ-A6I9-01A,68,white,not reported,3,2,male,489,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6825-01A,73,white,stage i,4,2,male,491,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5364-01A,55,white,stage iva,2,NA,male,493,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7430-11A,56,white,stage iva,4,NA,male,495,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7430-01A,56,white,stage iva,4,NA,male,495,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A8YP-01A,50,black or african american,stage ivb,2,1,male,499,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A63Y-01A,46,white,stage ii,1,NA,male,504,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7437-01A,77,not reported,stage ii,1,NA,male,506,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7437-11A,77,not reported,stage ii,1,NA,male,506,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7067-01A,75,white,stage i,NA,NA,female,509,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6477-01A,56,white,not reported,3,NA,female,514,0,Head & Neck Squamous Cell Carcinoma
+TCGA-RS-A6TP-01A,58,white,stage ii,4,0,male,516,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UP-A6WW-01A,58,white,not reported,1,3,male,518,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5555-01A,54,black or african american,stage iva,4,0,male,520,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7248-11A,63,black or african american,stage iva,2,NA,female,521,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7248-01A,63,black or african american,stage iva,2,NA,female,521,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7383-01A,79,white,stage i,2,NA,female,521,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5431-01A,73,white,stage iva,4,2,male,522,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5431-11A,73,white,stage iva,4,2,male,522,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A49A-01A,60,white,stage ivb,1,0,male,526,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6996-01A,58,white,stage iva,1,NA,female,530,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A4Z9-01A,59,white,stage iva,3,NA,male,539,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A8ZB-01A,68,black or african american,stage iva,3,0,male,542,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A620-01A,47,white,stage iii,2,NA,male,543,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7409-01A,43,black or african american,stage ivb,NA,NA,male,543,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5966-11A,63,white,stage iva,4,2,female,545,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5966-01A,63,white,stage iva,4,2,female,545,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5439-01A,62,white,stage iva,2,NA,male,546,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5439-11B,62,white,stage iva,2,NA,male,546,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JC-01A,42,white,stage iva,2,NA,male,546,1,Head & Neck Squamous Cell Carcinoma
+TCGA-MZ-A7D7-01A,51,white,stage iva,2,6,male,547,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-5631-01A,52,white,not reported,4,1,male,548,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JJ-01A,68,not reported,stage iva,2,NA,male,549,0,Head & Neck Squamous Cell Carcinoma
+TCGA-KU-A66T-01A,53,white,stage iva,1,NA,female,552,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4228-01A,50,white,stage iii,2,NA,male,559,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7263-11A,64,black or african american,stage ii,3,NA,male,560,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7263-01A,64,black or african american,stage ii,3,NA,male,560,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6474-01A,51,white,stage iva,2,NA,male,564,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6827-01A,55,white,stage i,2,NA,female,568,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7095-01A,87,not reported,stage ii,3,NA,female,572,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7095-11A,87,not reported,stage ii,3,NA,female,572,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CX-7086-01A,53,black or african american,stage iii,2,7,male,573,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A61S-01A,62,white,stage iii,4,1,male,576,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7247-01A,55,white,stage iii,1,NA,male,577,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7247-11A,55,white,stage iii,1,NA,male,577,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T3-01A,49,white,stage iva,1,NA,male,577,1,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T0-01A,47,white,stage iva,4,NA,female,578,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A6SG-01A,61,white,stage iii,1,NA,female,579,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6018-01A,85,white,stage iva,1,NA,female,580,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5436-11A,65,not reported,stage iva,2,12,male,584,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5436-01A,65,not reported,stage iva,2,12,male,584,1,Head & Neck Squamous Cell Carcinoma
+TCGA-KU-A6H7-01A,55,white,stage iva,4,1,female,586,0,Head & Neck Squamous Cell Carcinoma
+TCGA-KU-A6H7-06A,55,white,stage iva,4,1,female,586,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A6V7-01A,40,white,stage iva,1,NA,male,594,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6VC-01A,62,black or african american,stage iva,4,NA,female,600,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7433-01A,49,white,stage iva,2,NA,male,601,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6943-01A,74,white,stage iii,3,5,male,602,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6943-11A,74,white,stage iii,3,5,male,602,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A6V1-01A,59,white,stage iva,1,NA,male,603,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6K0-01B,58,white,stage i,1,1,male,606,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7380-01A,58,white,stage ivb,1,0,male,606,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A50G-01A,66,white,stage iii,2,NA,male,616,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A623-01A,70,white,stage iva,2,1,male,616,0,Head & Neck Squamous Cell Carcinoma
+TCGA-TN-A7HL-01A,59,white,stage iva,4,2,male,619,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7591-01A,62,white,not reported,3,3,male,622,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A4IH-01A,57,white,not reported,4,4,male,622,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-BA-A6DL-01A,59,white,not reported,2,3,male,623,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5557-01A,41,not reported,stage iii,1,0,female,623,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6937-01A,71,white,stage ii,4,NA,male,624,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-8601-01A,84,black or african american,stage iii,4,0,male,624,0,Head & Neck Squamous Cell Carcinoma
+TCGA-WA-A7GZ-01A,58,white,not reported,2,NA,male,625,1,Head & Neck Squamous Cell Carcinoma
+TCGA-WA-A7GZ-11A,58,white,not reported,2,NA,male,625,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4737-01A,19,white,stage iva,1,NA,male,625,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JO-01A,79,white,stage iva,1,NA,female,631,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A6V6-01A,59,white,stage iva,4,12,male,635,0,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-A76A-01A,57,white,not reported,4,2,male,637,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45P-01A,82,white,stage i,1,NA,female,639,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A64Z-01A,79,white,stage iva,1,0,female,641,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6433-11A,57,white,stage ii,2,4,male,641,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6433-01A,57,white,stage ii,2,4,male,641,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6VB-01A,66,white,stage iva,4,NA,male,641,0,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-A6C5-11A,65,white,stage ii,4,NA,male,642,0,Head & Neck Squamous Cell Carcinoma
+TCGA-H7-A6C5-01A,65,white,stage ii,4,NA,male,642,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-6869-01A,62,white,stage iii,2,2,male,644,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A652-01A,60,white,stage iii,1,1,male,645,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A49C-01A,67,white,not reported,3,NA,male,645,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JY-01A,69,white,stage iva,2,NA,male,646,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6IH-01A,65,white,stage ivb,1,NA,female,653,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5325-01A,65,white,stage i,4,3,male,654,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-8489-01A,48,white,stage ii,2,NA,male,658,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7177-01A,82,white,stage ii,NA,NA,female,663,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7177-11A,82,white,stage ii,NA,NA,female,663,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6939-01A,60,white,stage iva,1,NA,male,666,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6939-11A,60,white,stage iva,1,NA,male,666,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7831-01A,74,white,stage iva,1,0,male,667,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-8314-01A,58,white,stage iii,1,NA,male,670,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CV-7440-01A,38,white,stage ii,2,NA,male,675,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7440-11A,38,white,stage ii,2,NA,male,675,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A63V-01A,59,white,stage iva,2,NA,male,679,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JS-01A,59,white,stage iva,2,NA,male,680,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7861-01A,56,white,stage iii,2,NA,male,682,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6K1-01A,65,white,stage iva,4,6,male,685,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EN-01A,71,white,stage iii,5,NA,male,687,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6491-01A,60,black or african american,stage iva,2,NA,male,693,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7415-01A,60,white,stage iva,NA,NA,male,695,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-8635-01A,61,white,stage iii,2,4,female,695,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-8635-11A,61,white,stage iii,2,4,female,695,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5971-01A,60,white,stage iva,2,NA,male,701,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5971-11A,60,white,stage iva,2,NA,male,701,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6823-01A,50,white,stage ii,2,1,male,701,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6IF-01A,61,white,not reported,1,2,male,704,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4C9-01A,56,not reported,stage iii,2,NA,male,707,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A74Q-01A,67,white,stage iva,4,NA,male,710,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A6UY-01A,57,white,stage iva,4,NA,male,713,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JZ-01A,68,white,stage ii,2,4,male,714,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A499-01A,60,white,stage ii,1,0,female,717,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5151-01A,72,white,stage iva,3,0,male,722,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5556-01A,58,white,stage ii,4,2,female,725,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6013-01A,56,white,stage iva,1,NA,male,727,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JD-01A,71,not reported,stage iva,2,NA,male,739,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A6V3-01A,61,white,stage iva,4,12,male,742,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7871-01A,64,white,stage iva,2,0,female,750,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7397-01A,44,white,stage iva,4,1,male,754,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7372-01A,45,white,stage i,1,NA,male,759,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A61V-01A,54,white,stage ii,2,NA,male,759,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-8568-01A,62,white,stage ii,2,5,male,759,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EO-01A,44,white,stage iva,5,NA,male,759,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7416-11A,29,white,stage iva,1,NA,female,763,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7416-01A,29,white,stage iva,1,NA,female,763,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-8569-01A,52,white,stage ii,4,NA,male,770,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A498-01A,61,white,stage iii,4,NA,female,773,1,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-6516-01A,69,white,stage i,4,NA,male,773,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-A5HU-01A,47,white,stage iva,1,0,male,782,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7754-01A,69,white,stage iva,4,4,male,783,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7418-01A,62,black or african american,stage iva,4,6,male,789,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7418-11A,62,black or african american,stage iva,4,6,male,789,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7382-01A,49,white,stage iva,1,NA,male,796,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7245-01A,62,white,stage iva,4,NA,male,797,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7245-11A,62,white,stage iva,4,NA,male,797,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-5250-01A,71,white,not reported,2,NA,male,799,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6940-01A,80,white,stage iii,2,NA,female,804,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5149-01A,47,white,stage iva,2,7,male,806,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4730-01A,62,white,stage iva,2,NA,male,817,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7388-01A,70,white,not reported,2,NA,female,823,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-A5HZ-01A,65,white,stage iva,1,0,male,827,0,Head & Neck Squamous Cell Carcinoma
+TCGA-QK-A6V9-01A,56,white,stage ii,1,NA,male,833,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7832-01A,52,white,stage iva,2,6,male,836,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7917-01A,62,white,stage ii,2,12,male,836,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4740-01A,79,white,stage iva,4,4,female,839,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A6D8-01A,59,black or african american,stage iva,4,NA,male,850,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45O-01A,57,white,not reported,3,NA,male,851,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JT-01A,65,white,stage ii,1,NA,male,852,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6017-01A,55,white,stage iva,3,3,male,853,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A4IG-01A,77,white,not reported,3,NA,male,855,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6960-01A,49,black or african american,stage iii,4,2,male,862,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6960-11A,49,black or african american,stage iii,4,2,male,862,1,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7753-01A,62,black or african american,stage i,2,4,male,866,0,Head & Neck Squamous Cell Carcinoma
+TCGA-D6-A6EK-01A,67,white,stage iii,4,NA,male,875,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T5-01A,79,white,stage iva,3,NA,female,882,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7373-01A,66,white,stage iva,3,NA,male,889,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CB-01A,59,not reported,stage iii,2,24,male,893,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A4IF-01A,59,white,not reported,4,NA,male,895,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JH-01A,59,black or african american,stage iva,4,NA,male,896,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CE-01A,76,not reported,stage ii,1,0,female,897,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A49B-01A,71,white,stage iii,4,7,male,904,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JN-01A,53,white,not reported,2,8,male,906,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A5Q5-01A,54,white,stage iva,4,NA,male,910,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CR-7402-01A,68,white,not reported,2,NA,male,911,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7391-01A,36,white,stage i,3,NA,female,913,0,Head & Neck Squamous Cell Carcinoma
+TCGA-MT-A67A-01A,85,white,stage i,1,0,female,914,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6951-01A,57,white,stage iva,4,2,male,915,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6951-11A,57,white,stage iva,4,2,male,915,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-A4II-01A,46,white,stage ii,4,2,male,918,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7568-01A,48,white,stage iva,4,NA,female,927,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7395-01A,80,white,stage ii,3,NA,female,930,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6011-01A,57,white,stage iva,4,NA,male,933,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-5629-01A,64,white,not reported,4,3,male,941,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-A50J-01A,67,white,stage iii,4,0,female,947,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CI-01A,73,white,stage iii,4,0,male,950,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CV-7243-01A,50,white,stage iii,1,1,male,954,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A63U-01A,50,white,stage iva,4,NA,male,964,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7376-01A,83,white,stage iii,3,NA,male,972,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6989-01A,64,white,stage iva,2,3,male,980,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6220-01A,69,white,stage iii,1,NA,male,985,1,Head & Neck Squamous Cell Carcinoma
+TCGA-T2-A6X2-01A,82,white,stage iii,3,0,male,987,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6997-01A,66,white,stage iva,4,NA,male,988,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7393-01A,26,white,stage iii,1,NA,male,993,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JT-01A,72,white,stage iva,1,NA,female,993,1,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-8298-01A,58,white,stage i,3,1,male,995,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7385-01A,42,white,not reported,3,2,male,997,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4731-01A,63,white,stage iva,4,NA,female,998,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6221-01A,79,white,not reported,3,NA,male,1000,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61J-01A,54,white,stage iva,1,NA,male,1021,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4CD-01A,69,white,stage iva,1,0,male,1022,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7863-01A,43,white,stage iii,1,0,female,1025,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HD-7229-01A,60,white,stage iva,3,NA,male,1027,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-5630-01A,73,white,not reported,3,4,male,1030,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7379-01A,78,white,stage iva,3,NA,female,1036,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7422-01A,60,white,stage iva,4,NA,female,1037,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6019-01A,61,white,stage iva,4,3,male,1038,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CX-7219-01A,47,black or african american,stage iva,2,12,male,1045,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6472-01A,59,white,not reported,1,0,male,1050,0,Head & Neck Squamous Cell Carcinoma
+TCGA-HL-7533-01A,65,white,not reported,3,2.5,male,1057,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-A497-01A,63,not reported,stage iii,4,NA,male,1065,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6992-01A,61,white,stage iva,2,16,male,1066,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A6JE-01A,78,white,not reported,4,3,male,1075,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7401-01A,64,white,stage i,4,NA,male,1077,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45U-01A,59,white,stage iva,2,NA,male,1079,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7407-01A,67,white,stage ii,1,NA,female,1081,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7369-01A,59,white,stage iva,2,NA,male,1090,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7446-01A,66,white,stage iva,2,1,male,1093,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7242-11A,60,white,stage ii,3,5,female,1095,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7242-01A,60,white,stage ii,3,5,female,1095,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7862-01A,67,white,stage iva,4,NA,male,1117,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6SW-01A,50,white,stage ivb,2,1,male,1120,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CR-6473-01A,68,white,not reported,4,NA,male,1125,0,Head & Neck Squamous Cell Carcinoma
+TCGA-F7-7848-01A,47,white,stage iva,2,1,male,1131,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-5625-01A,52,white,not reported,2,15,female,1133,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-4077-01B,45,white,stage iva,4,0,female,1134,1,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61H-01A,76,white,stage ii,4,NA,male,1138,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7592-01A,57,american indian or alaska native,not reported,2,3,male,1143,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-A61E-01A,55,white,stage iii,2,3,female,1147,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-5249-01A,35,white,stage ii,1,1,female,1152,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4725-01A,60,white,stage ii,1,NA,male,1157,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7872-01A,63,asian,stage i,1,NA,male,1168,0,Head & Neck Squamous Cell Carcinoma
+TCGA-IQ-7631-01A,60,white,stage ii,3,NA,female,1172,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6229-01A,61,white,stage ii,1,NA,male,1179,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6994-01A,67,white,stage iva,3,NA,male,1183,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7595-01A,53,white,not reported,2,10,male,1190,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7365-01A,60,white,stage iva,2,NA,male,1191,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6471-01A,58,white,stage iva,2,NA,male,1202,1,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7594-01A,47,white,not reported,1,1,male,1218,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7593-01A,58,white,not reported,2,8,male,1224,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7368-01A,54,white,stage iva,4,NA,male,1245,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6218-01A,52,white,stage iva,4,NA,female,1253,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7596-01A,48,white,not reported,1,3,male,1265,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-7269-01A,61,white,stage iii,2,2,male,1273,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7069-01A,77,white,stage ii,1,0,female,1274,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5355-01A,64,black or african american,stage iva,2,NA,male,1278,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5152-01A,56,white,stage iva,1,0,male,1288,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6948-01A,79,white,stage ivb,NA,NA,female,1289,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7068-01A,80,white,stage ii,1,NA,female,1309,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7071-01A,76,white,stage iii,1,0,female,1311,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5979-01A,26,white,stage iva,1,NA,male,1315,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5979-11A,26,white,stage iva,1,NA,male,1315,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7394-01A,70,white,stage iva,2,NA,male,1346,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-A4C6-01A,63,asian,stage ii,4,0,male,1353,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7J9-01A,75,white,stage iva,2,33,male,1358,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7866-01A,40,white,not reported,4,NA,male,1368,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4739-01A,71,white,stage iva,4,NA,male,1394,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45W-01A,75,white,stage ii,2,NA,male,1398,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5331-01A,73,white,not reported,3,NA,female,1399,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5356-01A,56,white,stage iii,2,NA,male,1409,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7589-01A,70,white,not reported,4,10,male,1409,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-7590-01A,51,white,not reported,3,5,male,1413,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7392-01A,67,white,stage iva,3,NA,female,1425,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6223-01A,69,white,stage ii,3,NA,male,1428,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6SX-01A,67,white,stage iii,4,NA,male,1430,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7386-01A,69,white,stage iva,3,1,male,1430,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7364-01A,66,white,stage iii,2,NA,male,1435,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7367-01A,52,white,stage iva,2,6,male,1440,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6016-01A,64,white,stage iva,2,12,male,1443,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7254-01A,55,white,stage ii,4,6,male,1459,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6012-01A,66,white,stage iva,2,NA,male,1460,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A71D-01A,54,white,stage iva,2,NA,female,1461,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5323-01A,82,white,stage i,3,1,male,1466,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45Z-01A,75,white,not reported,2,NA,male,1466,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7404-01A,53,white,not reported,1,NA,male,1472,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5976-11A,50,white,stage iva,4,NA,male,1478,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5976-01A,50,white,stage iva,4,NA,male,1478,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4722-01A,61,white,stage ii,2,NA,female,1483,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A71E-01A,63,white,stage iva,1,NA,male,1504,1,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-UF-A71B-01A,50,white,stage iva,2,NA,male,1506,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-7390-01A,67,white,stage iva,2,6,male,1508,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7261-11A,57,white,stage iva,2,NA,male,1512,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7261-01A,57,white,stage iva,2,NA,male,1512,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6470-01A,38,white,stage ii,1,2.5,male,1521,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6010-01A,53,white,stage iva,2,4,male,1523,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7864-01A,61,white,stage iva,4,6,male,1527,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CX-A4AQ-01A,56,white,stage iva,4,1,male,1555,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A5QE-01A,49,white,stage iii,1,NA,male,1559,0,Head & Neck Squamous Cell Carcinoma Basaloid Type
+TCGA-CN-4727-01A,56,white,stage iva,4,NA,male,1560,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5373-01A,55,white,stage i,4,NA,female,1584,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-6023-01A,73,white,stage iva,3,NA,male,1584,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4733-01A,61,white,stage iii,1,NA,male,1586,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7103-01A,49,white,stage iva,2,3,male,1591,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7103-11A,49,white,stage iva,2,3,male,1591,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5324-01A,59,white,stage iii,4,NA,male,1593,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7065-01A,40,asian,stage ii,1,NA,male,1628,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6953-01A,80,white,stage iii,1,NA,female,1641,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6953-11A,80,white,stage iii,1,NA,female,1641,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5327-01A,61,asian,stage iva,1,NA,female,1660,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A719-01A,54,not reported,stage ii,2,NA,male,1663,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-5248-01A,53,white,not reported,2,NA,male,1663,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6003-11A,50,white,stage iii,1,12,female,1665,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6003-01A,50,white,stage iii,1,12,female,1665,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7428-11A,47,white,stage iva,2,3,male,1671,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7428-01A,47,white,stage iva,2,3,male,1671,1,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JF-01A,80,white,stage iva,2,NA,male,1686,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4734-01A,70,white,stage ii,4,NA,male,1690,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4723-01A,67,white,stage iva,4,NA,male,1699,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7425-01A,77,white,stage iii,1,NA,female,1718,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7425-11A,77,white,stage iii,1,NA,female,1718,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6224-01A,52,white,stage iva,4,1,male,1721,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A464-01A,48,white,stage iii,4,NA,male,1722,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4728-01A,56,white,stage iva,2,7,male,1724,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5374-01A,56,white,stage iva,2,NA,female,1732,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4735-01A,52,white,stage iva,2,5,male,1737,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7406-01A,49,white,stage ii,4,3,male,1748,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7406-11A,49,white,stage ii,4,3,male,1748,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5153-01A,51,white,not reported,1,0,male,1762,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-6467-01A,59,white,stage iii,4,0.5,male,1777,0,Head & Neck Squamous Cell Carcinoma
+TCGA-DQ-5624-01A,43,white,not reported,1,NA,female,1778,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A460-01A,72,white,not reported,3,NA,male,1838,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5977-11A,66,white,stage iva,4,6,male,1840,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5977-01A,66,white,stage iva,4,6,male,1840,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5330-01A,69,white,stage iva,3,NA,female,1897,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6436-01A,62,white,stage iva,3,NA,male,1899,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6436-11A,62,white,stage iva,3,NA,male,1899,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A718-01A,62,white,stage iva,2,NA,male,1971,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7089-01A,74,white,stage iva,4,0,male,1972,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7089-11A,74,white,stage iva,4,0,male,1972,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7064-01A,83,white,stage iii,1,0,female,1973,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5558-01A,65,white,not reported,1,0,male,1995,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6954-11A,59,black or african american,stage iva,3,3,male,2002,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6954-01A,59,black or african american,stage iva,3,3,male,2002,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-7870-01A,58,white,stage iva,2,6,male,2016,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-6222-01A,63,white,stage iva,3,NA,male,2016,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A461-01A,65,white,not reported,2,NA,male,2064,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BA-5559-01A,71,white,not reported,1,0,male,2083,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5361-01A,80,white,stage iva,2,NA,male,2120,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7063-01A,59,white,stage i,3,0,female,2133,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-5329-01A,46,white,stage ii,1,NA,female,2143,0,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-8596-01A,69,white,stage iva,4,1,female,2161,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7178-11A,64,white,stage iva,3,0,female,2166,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7178-01A,64,white,stage iva,3,0,female,2166,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-5360-01A,68,white,stage iva,2,NA,male,2169,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A5QA-01A,41,not reported,stage i,1,NA,male,2182,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CN-4741-01A,75,white,stage iva,4,NA,male,2239,0,Head & Neck Squamous Cell Carcinoma
+TCGA-UF-A7JA-01A,66,white,stage iva,2,NA,female,2265,0,Head & Neck Squamous Cell Carcinoma
+TCGA-P3-A6T2-01A,45,white,stage iva,1,4,male,2298,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5435-11B,57,white,stage iva,4,NA,male,2319,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5435-01A,57,white,stage iva,4,NA,male,2319,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5442-01A,76,white,stage iva,4,NA,female,2327,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5442-11A,76,white,stage iva,4,NA,female,2327,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7235-01A,67,white,stage ii,3,4,male,2347,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7235-11A,67,white,stage ii,3,4,male,2347,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CQ-7072-01A,51,white,stage ii,2,12,male,2359,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5444-11A,64,black or african american,stage iva,4,2,male,2437,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5444-01A,64,black or african american,stage iva,4,2,male,2437,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CR-5243-01A,51,white,not reported,1,0,male,2562,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7432-11A,79,white,stage ii,4,NA,male,2570,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7432-01A,79,white,stage ii,4,NA,male,2570,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5973-01A,62,white,stage iii,1,NA,female,2641,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5973-11A,62,white,stage iii,1,NA,female,2641,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45Y-01A,61,american indian or alaska native,stage iva,4,NA,male,2703,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7411-01A,64,white,stage iva,2,NA,female,2717,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7238-11A,69,white,stage ii,1,NA,female,2727,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7238-01A,69,white,stage ii,1,NA,female,2727,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6933-01A,53,white,stage iii,4,0,male,2741,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6933-11A,53,white,stage iii,4,0,male,2741,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5443-01A,63,black or african american,stage iii,2,NA,male,2784,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5443-11A,63,black or african american,stage iii,2,NA,male,2784,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5441-01A,58,white,stage iva,4,6,male,2886,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5441-11A,58,white,stage iva,4,6,male,2886,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7250-11A,64,white,stage iva,3,NA,male,2900,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7250-01A,64,white,stage iva,3,NA,male,2900,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7423-11A,65,white,stage ii,3,NA,male,3059,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7423-01A,65,white,stage ii,3,NA,male,3059,1,Head & Neck Squamous Cell Carcinoma
+TCGA-BB-4223-01A,48,white,stage iva,1,NA,male,3221,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5440-01A,52,white,stage iva,2,1,male,3270,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5440-11A,52,white,stage iva,2,1,male,3270,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5434-11B,60,black or african american,stage iva,3,NA,male,3314,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5434-01A,60,black or african american,stage iva,3,NA,male,3314,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7091-11A,54,white,stage i,4,3,male,3381,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7091-01A,54,white,stage i,4,3,male,3381,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5432-01A,68,white,stage iii,4,NA,male,3930,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5432-11B,68,white,stage iii,4,NA,male,3930,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7183-01A,53,white,stage ii,3,NA,male,3981,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7183-11A,53,white,stage ii,3,NA,male,3981,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5430-01A,61,white,stage iva,3,NA,male,4241,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-5430-11B,61,white,stage iva,3,NA,male,4241,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-6942-01A,73,white,stage ii,1,NA,female,4282,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7435-01A,57,white,stage iva,2,NA,female,4680,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7435-11A,57,white,stage iva,2,NA,female,4680,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7427-01A,73,white,stage ii,3,1,female,4760,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45T-01A,64,white,not reported,4,NA,female,4856,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45Q-01A,69,white,not reported,3,NA,female,5152,1,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7090-01A,39,white,stage ii,NA,NA,male,5252,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-A45R-01A,46,white,stage iii,4,NA,male,5480,0,Head & Neck Squamous Cell Carcinoma
+TCGA-CV-7410-01A,61,white,stage iii,3,NA,male,6417,1,Head & Neck Squamous Cell Carcinoma

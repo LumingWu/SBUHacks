@@ -1,0 +1,739 @@
+,ID,age,race,tumor_stage,tobacco_history,gender,os,os_event,histological_type
+TCGA-NJ-A4YI-01A,TCGA-NJ-A4YI-01A,87,white,stage iiia,3,female,4,1,Lung Papillary Adenocarcinoma
+TCGA-55-8506-11A,TCGA-55-8506-11A,62,white,stage iib,2,female,11,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8506-01A,TCGA-55-8506-01A,62,white,stage iib,2,female,11,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A55O-01A,TCGA-NJ-A55O-01A,56,white,stage iia,4,female,13,0,Mucinous (Colloid) Carcinoma
+TCGA-35-3615-01A,TCGA-35-3615-01A,57,white,stage ib,1,male,14,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A55A-01A,TCGA-NJ-A55A-01A,76,white,stage ib,3,female,15,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7938-01A,TCGA-97-7938-01A,76,white,stage ia,3,female,18,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-86-8672-01A,TCGA-86-8672-01A,59,white,stage iib,1,male,19,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6673-11A,TCGA-50-6673-11A,84,white,stage i,1,female,22,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6673-01A,TCGA-50-6673-01A,84,white,stage i,1,female,22,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8074-01A,TCGA-86-8074-01A,62,white,stage iia,2,female,24,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-A493-01A,TCGA-55-A493-01A,54,white,stage ib,2,female,28,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-A4JO-01A,TCGA-93-A4JO-01A,70,white,stage ia,4,male,33,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-91-6849-11A,TCGA-91-6849-11A,75,black or african american,stage iiia,3,female,35,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6849-01A,TCGA-91-6849-01A,75,black or african american,stage iiia,3,female,35,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-8499-01A,TCGA-91-8499-01A,76,white,stage ia,2,female,36,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-8499-11A,TCGA-91-8499-11A,76,white,stage ia,2,female,36,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4677-01A,TCGA-73-4677-01A,74,white,not reported,3,male,38,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4677-11A,TCGA-73-4677-11A,74,white,not reported,3,male,38,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-A4BC-01A,TCGA-91-A4BC-01A,59,white,stage iia,4,male,44,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8032-01A,TCGA-99-8032-01A,61,white,stage ia,2,male,44,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8032-11A,TCGA-99-8032-11A,61,white,stage ia,2,male,44,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8616-01A,TCGA-55-8616-01A,58,white,stage ib,4,female,48,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8616-11A,TCGA-55-8616-11A,58,white,stage ib,4,female,48,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A4YP-01A,TCGA-NJ-A4YP-01A,52,white,stage ib,5,male,50,0,Lung Papillary Adenocarcinoma
+TCGA-L9-A5IP-01A,TCGA-L9-A5IP-01A,40,black or african american,stage iv,4,female,58,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6830-01A,TCGA-91-6830-01A,65,white,stage iia,4,female,60,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6830-11A,TCGA-91-6830-11A,65,white,stage iia,4,female,60,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-67-3776-01A,TCGA-67-3776-01A,57,white,stage iib,3,female,61,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-5775-01A,TCGA-64-5775-01A,71,white,stage iiia,2,male,62,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-5715-01A,TCGA-05-5715-01A,69,not reported,stage ib,1,female,62,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-MP-A4TC-01A,TCGA-MP-A4TC-01A,77,white,stage iiia,3,male,74,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6835-11A,TCGA-91-6835-11A,81,white,stage ia,3,female,79,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6835-01A,TCGA-91-6835-01A,81,white,stage ia,3,female,79,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-8494-01A,TCGA-95-8494-01A,67,white,stage iia,5,male,84,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MN-A4N5-01A,TCGA-MN-A4N5-01A,63,white,stage ia,4,male,84,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7562-01A,TCGA-95-7562-01A,71,black or african american,stage iia,3,male,87,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4415-01A,TCGA-05-4415-01A,57,not reported,stage iiib,4,male,91,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-2666-11A,TCGA-44-2666-11A,43,white,stage ib,2,male,97,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2666-01A,TCGA-44-2666-01A,43,white,stage ib,2,male,97,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2666-01B,TCGA-44-2666-01B,43,white,stage ib,2,male,97,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-A490-01A,TCGA-55-A490-01A,78,white,stage iia,3,male,99,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-A4D0-01A,TCGA-86-A4D0-01A,48,white,stage iia,2,male,116,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6975-01A,TCGA-55-6975-01A,61,white,stage iib,4,male,118,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6975-11A,TCGA-55-6975-11A,61,white,stage iib,4,male,118,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-6591-01A,TCGA-50-6591-01A,63,white,stage iv,1,female,119,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6591-11A,TCGA-50-6591-11A,63,white,stage iv,1,female,119,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7727-11A,TCGA-55-7727-11A,70,white,stage iiia,2,male,119,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7727-01A,TCGA-55-7727-01A,70,white,stage iiia,2,male,119,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4250-01A,TCGA-05-4250-01A,79,not reported,stage iiia,4,female,121,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8055-01A,TCGA-86-8055-01A,79,white,stage iia,2,male,124,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-8255-01A,TCGA-69-8255-01A,71,white,stage ia,2,male,129,0,Lung Solid Pattern Predominant Adenocarcinoma
+TCGA-73-4670-11A,TCGA-73-4670-11A,69,white,stage iv,4,female,131,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4670-01A,TCGA-73-4670-01A,69,white,stage iv,4,female,131,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-A44F-01A,TCGA-38-A44F-01A,80,white,stage ib,3,male,133,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-69-7978-01A,TCGA-69-7978-01A,59,white,stage iib,2,male,134,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8394-01A,TCGA-62-8394-01A,65,white,stage iiib,1,female,139,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8394-11A,TCGA-62-8394-11A,65,white,stage iiib,1,female,139,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-8056-01A,TCGA-86-8056-01A,63,white,stage iiia,3,female,139,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-67-6216-01A,TCGA-67-6216-01A,57,white,stage ia,1,female,141,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-5423-01A,TCGA-05-5423-01A,65,not reported,stage iib,3,male,151,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8092-11A,TCGA-55-8092-11A,75,white,stage iib,4,male,154,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8092-01A,TCGA-55-8092-01A,75,white,stage iib,4,male,154,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4T8-01A,TCGA-MP-A4T8-01A,68,not reported,stage iiia,3,male,161,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8174-01A,TCGA-97-8174-01A,67,white,stage iia,3,male,164,1,Lung Papillary Adenocarcinoma
+TCGA-69-7765-01A,TCGA-69-7765-01A,56,black or african american,not reported,4,male,165,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-MP-A4T7-01A,TCGA-MP-A4T7-01A,75,not reported,stage iv,4,female,167,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6712-01A,TCGA-55-6712-01A,71,white,stage iia,4,male,171,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7146-01A,TCGA-78-7146-01A,71,white,stage iiia,4,female,173,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-67-6215-01A,TCGA-67-6215-01A,52,white,stage ib,1,female,174,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6978-11A,TCGA-55-6978-11A,81,white,stage iia,1,male,176,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6978-01A,TCGA-55-6978-01A,81,white,stage iia,1,male,176,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-6851-01A,TCGA-86-6851-01A,73,white,stage iia,2,female,179,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-78-7158-01A,TCGA-78-7158-01A,59,white,stage iiib,4,female,179,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-35-4123-01A,TCGA-35-4123-01A,38,white,stage ia,4,male,182,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7974-01A,TCGA-69-7974-01A,54,white,stage iiia,4,female,184,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-69-7761-01A,TCGA-69-7761-01A,84,white,stage ib,3,male,186,0,Lung Acinar Adenocarcinoma
+TCGA-93-8067-01A,TCGA-93-8067-01A,77,asian,stage ib,4,male,186,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-8067-01C,TCGA-93-8067-01C,77,asian,stage ib,4,male,186,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-8067-01D,TCGA-93-8067-01D,77,asian,stage ib,4,male,186,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7914-01A,TCGA-55-7914-01A,71,white,stage iia,2,female,187,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7914-11A,TCGA-55-7914-11A,71,white,stage iia,2,female,187,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6595-11A,TCGA-50-6595-11A,74,white,stage iiia,3,female,189,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6595-01A,TCGA-50-6595-01A,74,white,stage iiia,3,female,189,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L9-A443-01A,TCGA-L9-A443-01A,63,white,stage ia,4,female,193,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7760-01A,TCGA-69-7760-01A,73,white,stage iib,1,male,202,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-71-8520-01A,TCGA-71-8520-01A,60,asian,stage ib,1,female,210,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7662-01A,TCGA-44-7662-01A,61,white,stage ib,2,male,218,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7662-11A,TCGA-44-7662-11A,61,white,stage ib,2,male,218,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6848-11A,TCGA-91-6848-11A,59,white,stage iiia,4,male,224,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6848-01A,TCGA-91-6848-01A,59,white,stage iiia,4,male,224,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-35-4122-01A,TCGA-35-4122-01A,69,white,stage ia,4,male,225,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7973-01A,TCGA-69-7973-01A,42,white,stage ib,4,female,230,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6979-11A,TCGA-55-6979-11A,59,white,stage iib,3,female,237,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6979-01A,TCGA-55-6979-01A,59,white,stage iib,3,female,237,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7284-01B,TCGA-55-7284-01B,74,white,stage iib,3,male,243,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-05-4402-01A,TCGA-05-4402-01A,57,not reported,stage iv,1,female,244,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-78-7536-01A,TCGA-78-7536-01A,69,white,stage iiia,4,male,244,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5072-01A,TCGA-50-5072-01A,74,white,stage iiia,3,male,250,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-71-6725-01A,TCGA-71-6725-01A,48,asian,stage ib,2,female,256,0,Lung Papillary Adenocarcinoma
+TCGA-50-5936-01A,TCGA-50-5936-01A,58,white,stage iiia,NA,male,257,1,Mucinous (Colloid) Carcinoma
+TCGA-50-5936-11A,TCGA-50-5936-11A,58,white,stage iiia,NA,male,257,1,Mucinous (Colloid) Carcinoma
+TCGA-78-7166-01A,TCGA-78-7166-01A,84,white,stage iib,3,male,258,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7166-11A,TCGA-78-7166-11A,84,white,stage iib,3,male,258,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR9-11A,TCGA-49-AAR9-11A,61,black or african american,stage iib,2,male,260,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR9-01A,TCGA-49-AAR9-01A,61,black or african american,stage iib,2,male,260,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-8120-11A,TCGA-44-8120-11A,58,black or african american,stage ib,5,male,260,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-8120-01A,TCGA-44-8120-01A,58,black or african american,stage ib,5,male,260,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-35-5375-01A,TCGA-35-5375-01A,61,white,stage iiia,4,male,264,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4507-01A,TCGA-49-4507-01A,73,white,stage iiia,4,female,268,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4507-11A,TCGA-49-4507-11A,73,white,stage iiia,4,female,268,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4418-01A,TCGA-05-4418-01A,69,not reported,stage iiia,2,male,274,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-5429-01A,TCGA-05-5429-01A,60,not reported,stage iiia,1,male,275,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4676-01A,TCGA-73-4676-01A,45,white,stage iia,4,male,281,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4676-11A,TCGA-73-4676-11A,45,white,stage iia,4,male,281,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5930-11A,TCGA-50-5930-11A,47,white,stage iiia,NA,male,282,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5930-01A,TCGA-50-5930-01A,47,white,stage iiia,NA,male,282,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-8119-01A,TCGA-44-8119-01A,73,white,stage iib,2,male,285,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-8119-11A,TCGA-44-8119-11A,73,white,stage iib,2,male,285,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-A47B-01A,TCGA-44-A47B-01A,79,white,stage ib,3,male,287,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7161-01A,TCGA-78-7161-01A,69,white,stage iib,4,female,291,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-4B-A93V-01A,TCGA-4B-A93V-01A,52,black or african american,stage ia,4,female,300,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4396-01A,TCGA-05-4396-01A,76,not reported,stage iiib,3,male,303,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-MP-A4TD-01A,TCGA-MP-A4TD-01A,71,white,stage iiia,3,male,307,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L9-A444-01A,TCGA-L9-A444-01A,60,white,stage ia,2,female,307,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-7109-01A,TCGA-50-7109-01A,60,white,stage ia,2,male,308,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-7109-11A,TCGA-50-7109-11A,60,white,stage ia,2,male,308,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6831-01A,TCGA-91-6831-01A,66,white,stage ib,2,male,310,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6831-11A,TCGA-91-6831-11A,66,white,stage ib,2,male,310,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7542-11A,TCGA-78-7542-11A,56,white,stage ib,2,male,321,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7542-01A,TCGA-78-7542-01A,56,white,stage ib,2,male,321,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-8660-01A,TCGA-78-8660-01A,69,not reported,stage iib,4,male,321,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6828-01A,TCGA-91-6828-01A,70,white,stage ia,3,male,323,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6828-11A,TCGA-91-6828-11A,70,white,stage ia,3,male,323,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4TF-01A,TCGA-MP-A4TF-01A,58,white,stage iia,4,female,336,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6593-01A,TCGA-50-6593-01A,49,white,stage iiia,4,female,336,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-6593-11A,TCGA-50-6593-11A,49,white,stage iiia,4,female,336,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-A47F-01A,TCGA-44-A47F-01A,74,white,stage iib,3,male,337,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4TJ-01A,TCGA-MP-A4TJ-01A,62,not reported,stage ia,2,female,339,1,Lung Signet Ring Adenocarcinoma
+TCGA-73-A9RS-01A,TCGA-73-A9RS-01A,41,black or african american,stage iib,2,male,340,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7907-01A,TCGA-55-7907-01A,77,white,stage iia,3,male,343,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7907-11A,TCGA-55-7907-11A,77,white,stage iia,3,male,343,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-A47G-01A,TCGA-44-A47G-01A,73,white,stage ia,4,female,351,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8585-01A,TCGA-86-8585-01A,57,white,stage ib,1,male,353,0,Lung Solid Pattern Predominant Adenocarcinoma
+TCGA-38-4631-01A,TCGA-38-4631-01A,72,white,stage ib,4,female,354,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4631-11A,TCGA-38-4631-11A,72,white,stage ib,4,female,354,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-6761-11A,TCGA-49-6761-11A,68,white,stage iiia,4,female,354,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-6761-01A,TCGA-49-6761-01A,68,white,stage iiia,4,female,354,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7980-01A,TCGA-69-7980-01A,70,white,stage i,4,female,362,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4422-01A,TCGA-05-4422-01A,68,not reported,stage ib,4,male,365,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-6594-11A,TCGA-50-6594-11A,79,black or african american,stage iiia,4,female,370,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6594-01A,TCGA-50-6594-01A,79,black or african american,stage iiia,4,female,370,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6840-01A,TCGA-91-6840-01A,59,white,stage ia,3,female,372,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8620-01A,TCGA-55-8620-01A,60,white,stage iv,4,male,375,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8620-11A,TCGA-55-8620-11A,60,white,stage iv,4,male,375,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-6562-01A,TCGA-86-6562-01A,52,white,stage iia,1,male,376,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7944-01A,TCGA-95-7944-01A,71,white,stage ia,2,male,377,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-67-3774-01A,TCGA-67-3774-01A,73,white,stage ib,3,female,385,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4490-01A,TCGA-49-4490-01A,45,white,stage iiia,3,female,385,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4490-11A,TCGA-49-4490-11A,45,white,stage iiia,3,female,385,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-8117-11A,TCGA-44-8117-11A,54,white,stage ib,4,female,385,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-8117-01A,TCGA-44-8117-01A,54,white,stage ib,4,female,385,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7979-01A,TCGA-69-7979-01A,71,white,stage ib,2,female,408,0,Lung Acinar Adenocarcinoma
+TCGA-69-8254-01A,TCGA-69-8254-01A,85,white,not reported,3,male,409,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-A4SU-01A,TCGA-44-A4SU-01A,67,white,stage ia,4,female,409,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A46Y-01A,TCGA-62-A46Y-01A,70,white,stage iiia,1,female,414,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-69-7764-01A,TCGA-69-7764-01A,75,white,stage ia,3,male,414,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-A4P7-01A,TCGA-86-A4P7-01A,63,white,stage ib,1,female,415,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-A4SS-01A,TCGA-44-A4SS-01A,73,white,stage ia,4,male,415,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8619-11A,TCGA-55-8619-11A,72,white,stage iib,1,female,416,0,Mucinous (Colloid) Carcinoma
+TCGA-55-8619-01A,TCGA-55-8619-01A,72,white,stage iib,1,female,416,0,Mucinous (Colloid) Carcinoma
+TCGA-91-6836-11A,TCGA-91-6836-11A,52,white,stage ib,2,female,417,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6836-01A,TCGA-91-6836-01A,52,white,stage ib,2,female,417,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8507-11A,TCGA-55-8507-11A,53,white,stage ia,2,male,418,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8507-01A,TCGA-55-8507-01A,53,white,stage ia,2,male,418,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-67-6217-01A,TCGA-67-6217-01A,73,white,stage iia,3,female,422,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8668-01A,TCGA-86-8668-01A,61,white,stage ia,1,female,423,0,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-53-7813-01A,TCGA-53-7813-01A,51,white,stage iiib,4,female,424,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-05-4384-01A,TCGA-05-4384-01A,66,not reported,stage iiia,3,male,426,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-69-8253-01A,TCGA-69-8253-01A,59,black or african american,stage iia,4,female,426,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-67-3773-01A,TCGA-67-3773-01A,84,white,stage ib,3,female,427,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4505-01A,TCGA-49-4505-01A,61,white,stage iib,4,female,428,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4505-11A,TCGA-49-4505-11A,61,white,stage iib,4,female,428,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4TI-01A,TCGA-MP-A4TI-01A,72,white,stage iia,3,male,429,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-8497-01A,TCGA-91-8497-01A,75,white,stage ia,1,female,434,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5931-11A,TCGA-50-5931-11A,75,white,stage ib,4,female,434,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5931-01A,TCGA-50-5931-01A,75,white,stage ib,4,female,434,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6543-01A,TCGA-55-6543-01A,60,white,stage ia,4,female,435,0,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-97-8179-01A,TCGA-97-8179-01A,72,white,stage ia,3,male,435,0,Lung Acinar Adenocarcinoma
+TCGA-L4-A4E6-01A,TCGA-L4-A4E6-01A,67,white,stage ia,3,male,435,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8505-11A,TCGA-55-8505-11A,62,white,stage iiia,1,male,440,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8505-01A,TCGA-55-8505-01A,62,white,stage iiia,1,male,440,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7725-11A,TCGA-55-7725-11A,68,white,stage ia,3,female,442,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7725-01A,TCGA-55-7725-01A,68,white,stage ia,3,female,442,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L9-A50W-01A,TCGA-L9-A50W-01A,75,black or african american,stage iia,3,male,442,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-8359-01A,TCGA-86-8359-01A,52,white,stage iiia,2,male,444,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-8398-11A,TCGA-62-8398-11A,55,white,stage iiia,4,male,444,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8398-01A,TCGA-62-8398-01A,55,white,stage iiia,4,male,444,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8615-01A,TCGA-55-8615-01A,67,white,stage iiia,2,male,446,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8615-11A,TCGA-55-8615-11A,67,white,stage iiia,2,male,446,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-67-4679-01B,TCGA-67-4679-01B,69,white,not reported,4,male,448,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-6178-01A,TCGA-38-6178-01A,70,white,stage iiia,1,female,448,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4417-01A,TCGA-05-4417-01A,51,not reported,stage ib,4,female,455,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4434-01A,TCGA-05-4434-01A,67,not reported,stage iv,2,female,457,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-5420-01A,TCGA-05-5420-01A,67,not reported,stage iiia,4,male,457,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-5420-11A,TCGA-05-5420-11A,67,not reported,stage iiia,4,male,457,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5939-11A,TCGA-50-5939-11A,85,white,stage ib,3,male,460,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5939-01A,TCGA-50-5939-01A,85,white,stage ib,3,male,460,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8087-01A,TCGA-55-8087-01A,59,white,stage ib,1,female,462,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8087-11A,TCGA-55-8087-11A,59,white,stage ib,1,female,462,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6970-11A,TCGA-55-6970-11A,67,white,stage iiia,4,female,464,1,Lung Papillary Adenocarcinoma
+TCGA-55-6970-01A,TCGA-55-6970-01A,67,white,stage iiia,4,female,464,1,Lung Papillary Adenocarcinoma
+TCGA-44-A47A-01A,TCGA-44-A47A-01A,78,white,stage ib,4,female,466,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4668-11A,TCGA-73-4668-11A,66,american indian or alaska native,stage iib,4,female,467,0,Lung Micropapillary Adenocarcinoma
+TCGA-73-4668-01A,TCGA-73-4668-01A,66,american indian or alaska native,stage iib,4,female,467,0,Lung Micropapillary Adenocarcinoma
+TCGA-97-8176-01A,TCGA-97-8176-01A,63,white,stage iiia,4,male,468,1,Lung Acinar Adenocarcinoma
+TCGA-55-7816-01A,TCGA-55-7816-01A,49,white,stage iv,1,female,468,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8299-01A,TCGA-55-8299-01A,61,white,stage ia,4,female,469,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8299-11A,TCGA-55-8299-11A,61,white,stage ia,4,female,469,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7948-01A,TCGA-95-7948-01A,42,white,stage ib,3,female,476,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8097-01A,TCGA-55-8097-01A,60,white,stage ia,4,female,476,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8097-11A,TCGA-55-8097-11A,60,white,stage ia,4,female,476,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L9-A8F4-01A,TCGA-L9-A8F4-01A,64,black or african american,stage ib,2,female,476,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7947-01A,TCGA-95-7947-01A,67,white,stage ia,4,male,477,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5051-01A,TCGA-50-5051-01A,42,white,stage iiia,4,female,478,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8302-01A,TCGA-55-8302-01A,54,white,stage ib,2,male,478,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-A494-01A,TCGA-55-A494-01A,61,white,stage ib,3,female,481,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7941-01A,TCGA-97-7941-01A,72,white,stage ia,3,female,484,0,Lung Acinar Adenocarcinoma
+TCGA-44-A479-01A,TCGA-44-A479-01A,73,black or african american,stage ib,4,female,486,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7573-01A,TCGA-55-7573-01A,72,white,stage ia,3,female,487,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7573-11A,TCGA-55-7573-11A,72,white,stage ia,3,female,487,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-6742-11A,TCGA-49-6742-11A,70,white,stage iia,3,male,488,1,Mucinous (Colloid) Carcinoma
+TCGA-49-6742-01A,TCGA-49-6742-01A,70,white,stage iia,3,male,488,1,Mucinous (Colloid) Carcinoma
+TCGA-91-7771-01A,TCGA-91-7771-01A,62,white,stage iib,4,male,492,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8177-01A,TCGA-97-8177-01A,59,white,stage ib,1,female,499,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-6779-11A,TCGA-44-6779-11A,50,white,stage iib,4,female,500,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6779-01A,TCGA-44-6779-01A,50,white,stage iib,4,female,500,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7043-01A,TCGA-95-7043-01A,63,white,stage ia,4,female,503,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-91-8496-11A,TCGA-91-8496-11A,63,white,stage ib,1,female,505,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-91-8496-01A,TCGA-91-8496-01A,63,white,stage ib,1,female,505,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-S2-AA1A-01A,TCGA-S2-AA1A-01A,68,black or african american,stage ia,3,female,513,0,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-55-8621-01A,TCGA-55-8621-01A,75,white,stage ia,4,female,515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8621-11A,TCGA-55-8621-11A,75,white,stage ia,4,female,515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8204-01A,TCGA-55-8204-01A,87,white,stage ib,3,female,515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8204-11A,TCGA-55-8204-11A,87,white,stage ib,3,female,515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8514-01A,TCGA-55-8514-01A,70,black or african american,stage ib,4,female,520,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8514-11A,TCGA-55-8514-11A,70,black or african american,stage ib,4,female,520,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-A59K-01A,TCGA-69-A59K-01A,60,black or african american,stage iib,4,female,522,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-6745-01A,TCGA-49-6745-01A,82,white,stage iiia,4,male,522,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-6745-11A,TCGA-49-6745-11A,82,white,stage iiia,4,male,522,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-A4JQ-01A,TCGA-93-A4JQ-01A,49,white,stage ia,3,male,526,0,Lung Acinar Adenocarcinoma
+TCGA-93-7348-01A,TCGA-93-7348-01A,75,white,stage ia,4,female,531,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-7348-11A,TCGA-93-7348-11A,75,white,stage ia,4,female,531,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8301-11A,TCGA-55-8301-11A,58,white,stage ib,2,male,534,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8301-01A,TCGA-55-8301-01A,58,white,stage ib,2,male,534,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8614-01A,TCGA-55-8614-01A,76,white,stage ib,3,male,536,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8614-11A,TCGA-55-8614-11A,76,white,stage ib,3,male,536,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7911-11A,TCGA-55-7911-11A,70,white,stage ia,3,female,537,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7911-01A,TCGA-55-7911-01A,70,white,stage ia,3,female,537,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8510-01A,TCGA-55-8510-01A,55,white,stage ib,2,female,539,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M3-01A,TCGA-97-A4M3-01A,69,white,stage ia,3,female,540,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8094-01A,TCGA-55-8094-01A,51,white,stage iv,4,male,541,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8094-11A,TCGA-55-8094-11A,51,white,stage iv,4,male,541,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8172-01A,TCGA-97-8172-01A,75,white,stage ib,3,female,545,0,Lung Acinar Adenocarcinoma
+TCGA-55-A57B-01A,TCGA-55-A57B-01A,80,black or african american,stage ia,1,female,546,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8203-11A,TCGA-55-8203-11A,69,white,stage ia,2,female,547,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8203-01A,TCGA-55-8203-01A,69,white,stage ia,2,female,547,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-J2-A4AD-01A,TCGA-J2-A4AD-01A,61,white,stage ia,2,female,550,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8175-01A,TCGA-97-8175-01A,55,white,stage ib,3,female,551,0,Lung Solid Pattern Predominant Adenocarcinoma
+TCGA-55-8511-11A,TCGA-55-8511-11A,73,white,stage ib,2,female,552,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8511-01A,TCGA-55-8511-01A,73,white,stage ib,2,female,552,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-A4VN-01A,TCGA-95-A4VN-01A,62,white,stage iia,4,female,553,0,Lung Solid Pattern Predominant Adenocarcinoma
+TCGA-44-7661-01A,TCGA-44-7661-01A,69,white,stage ib,3,female,557,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7661-11A,TCGA-44-7661-11A,69,white,stage ib,3,female,557,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7913-11A,TCGA-55-7913-11A,61,black or african american,stage ia,2,female,561,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7913-01B,TCGA-55-7913-01B,61,black or african american,stage ia,2,female,561,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7937-01A,TCGA-97-7937-01A,65,white,stage ib,3,male,564,0,Lung Micropapillary Adenocarcinoma
+TCGA-L9-A7SV-01A,TCGA-L9-A7SV-01A,69,black or african american,stage iia,3,male,565,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7903-11A,TCGA-55-7903-11A,64,white,stage ia,2,male,567,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7903-01A,TCGA-55-7903-01A,64,white,stage ia,2,male,567,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7567-01A,TCGA-95-7567-01A,61,white,stage iib,4,male,568,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-97-8171-01A,TCGA-97-8171-01A,81,asian,stage iv,2,male,568,0,Lung Papillary Adenocarcinoma
+TCGA-97-A4M6-01A,TCGA-97-A4M6-01A,45,white,stage ia,1,female,568,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-67-3772-01A,TCGA-67-3772-01A,82,white,stage ib,1,female,573,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7669-01A,TCGA-44-7669-01A,59,black or african american,stage iia,2,male,574,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7669-11A,TCGA-44-7669-11A,59,black or african american,stage iia,2,male,574,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L4-A4E5-01A,TCGA-L4-A4E5-01A,48,white,stage i,4,female,578,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-A4JP-01D,TCGA-93-A4JP-01D,64,asian,stage iv,1,male,578,0,Lung Papillary Adenocarcinoma
+TCGA-93-A4JP-01E,TCGA-93-A4JP-01E,64,asian,stage iv,1,male,578,0,Lung Papillary Adenocarcinoma
+TCGA-93-A4JP-01A,TCGA-93-A4JP-01A,64,asian,stage iv,1,male,578,0,Lung Papillary Adenocarcinoma
+TCGA-05-4403-01A,TCGA-05-4403-01A,76,not reported,stage ib,3,male,578,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-MP-A4TK-01A,TCGA-MP-A4TK-01A,56,not reported,stage iib,4,female,582,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7147-01A,TCGA-78-7147-01A,67,white,stage iib,2,female,586,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7660-01A,TCGA-44-7660-01A,72,white,stage ib,2,male,592,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7660-11A,TCGA-44-7660-11A,72,white,stage ib,2,male,592,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7154-01A,TCGA-78-7154-01A,72,white,stage iiia,4,male,593,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A46P-01A,TCGA-62-A46P-01A,65,white,stage ib,4,male,594,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-6145-11A,TCGA-44-6145-11A,62,white,stage ia,4,female,595,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6145-01A,TCGA-44-6145-01A,62,white,stage ia,4,female,595,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-A492-01A,TCGA-55-A492-01A,70,white,stage ia,3,female,596,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8090-01A,TCGA-55-8090-01A,80,white,stage ia,2,male,598,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8205-01A,TCGA-55-8205-01A,76,white,stage iia,4,female,599,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8205-11A,TCGA-55-8205-11A,76,white,stage iia,4,female,599,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8091-11A,TCGA-55-8091-11A,74,white,stage ib,3,male,600,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8091-01A,TCGA-55-8091-01A,74,white,stage ib,3,male,600,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M1-01A,TCGA-97-A4M1-01A,52,white,stage ia,3,female,601,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-91-A4BD-01A,TCGA-91-A4BD-01A,78,white,stage iia,3,male,603,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A55R-01A,TCGA-NJ-A55R-01A,67,white,stage ia,3,male,603,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7994-01A,TCGA-55-7994-01A,81,white,stage iib,2,male,603,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7994-11A,TCGA-55-7994-11A,81,white,stage iib,2,male,603,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-A4VP-01A,TCGA-95-A4VP-01A,66,white,stage iiia,4,female,605,0,Lung Acinar Adenocarcinoma
+TCGA-86-7954-01A,TCGA-86-7954-01A,68,white,stage ib,3,female,605,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-86-7954-11A,TCGA-86-7954-11A,68,white,stage ib,3,female,605,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-8512-11A,TCGA-55-8512-11A,41,white,stage iv,2,male,607,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-8512-01A,TCGA-55-8512-01A,41,white,stage iv,2,male,607,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-05-4382-01A,TCGA-05-4382-01A,68,not reported,stage ib,4,male,607,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A4DG-01A,TCGA-55-A4DG-01A,71,white,stage ia,4,male,608,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7283-11A,TCGA-55-7283-11A,76,white,stage iiia,3,female,609,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-7283-01A,TCGA-55-7283-01A,76,white,stage iiia,3,female,609,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-67-3770-01A,TCGA-67-3770-01A,70,white,stage ia,3,female,610,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-67-3771-01A,TCGA-67-3771-01A,77,black or african american,stage ia,4,female,610,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4405-01A,TCGA-05-4405-01A,74,not reported,stage ib,4,female,610,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A4DF-01A,TCGA-55-A4DF-01A,88,white,stage ia,3,male,614,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4LX-01A,TCGA-97-A4LX-01A,81,white,stage ib,3,male,614,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-NJ-A7XG-01A,TCGA-NJ-A7XG-01A,49,black or african american,stage iiia,3,male,617,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8508-01A,TCGA-55-8508-01A,60,black or african american,stage iia,2,female,617,0,Mucinous (Colloid) Carcinoma
+TCGA-55-8508-11A,TCGA-55-8508-11A,60,black or african american,stage iia,2,female,617,0,Mucinous (Colloid) Carcinoma
+TCGA-50-5044-01A,TCGA-50-5044-01A,72,white,stage iiib,NA,female,624,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M2-01A,TCGA-97-A4M2-01A,66,white,stage ia,2,male,624,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-7714-01A,TCGA-86-7714-01A,61,black or african american,stage iiia,2,female,625,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-78-7148-01A,TCGA-78-7148-01A,71,white,stage iib,2,male,626,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A491-01A,TCGA-55-A491-01A,81,white,stage ia,3,female,626,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8552-01A,TCGA-97-8552-01A,55,white,stage i,1,female,626,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-64-1677-01A,TCGA-64-1677-01A,77,white,stage iiia,2,female,628,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M7-01A,TCGA-97-A4M7-01A,74,white,stage ia,3,male,629,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A48Y-01A,TCGA-55-A48Y-01A,69,white,stage iia,2,male,630,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M5-01A,TCGA-97-A4M5-01A,83,white,stage ia,3,male,634,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-95-A4VK-01A,TCGA-95-A4VK-01A,74,white,stage iiia,3,female,651,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A48Z-01A,TCGA-55-A48Z-01A,60,white,stage iiib,4,female,651,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-7726-11A,TCGA-55-7726-11A,72,white,stage ia,3,female,652,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7726-01A,TCGA-55-7726-01A,72,white,stage ia,3,female,652,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-A4M0-01A,TCGA-97-A4M0-01A,60,white,stage ib,4,female,652,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5935-01A,TCGA-50-5935-01A,86,white,stage ia,NA,female,653,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5935-11A,TCGA-50-5935-11A,86,white,stage ia,NA,female,653,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8358-01A,TCGA-86-8358-01A,44,white,stage ib,2,male,653,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8033-01A,TCGA-99-8033-01A,74,white,stage iv,1,female,656,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8033-11A,TCGA-99-8033-11A,74,white,stage iv,1,female,656,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-8547-01A,TCGA-97-8547-01A,78,not reported,stage iiia,1,female,657,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-6774-01A,TCGA-44-6774-01A,56,white,stage iiia,2,female,658,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6774-11A,TCGA-44-6774-11A,56,white,stage iiia,2,female,658,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-AA5R-01A,TCGA-99-AA5R-01A,70,black or african american,stage ia,2,female,658,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-L9-A743-01A,TCGA-L9-A743-01A,56,black or african american,stage iia,2,male,664,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7150-01A,TCGA-78-7150-01A,59,white,stage iib,4,male,666,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4425-01A,TCGA-05-4425-01A,70,not reported,stage iv,3,female,669,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-5428-01A,TCGA-05-5428-01A,57,not reported,stage iia,3,male,670,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-7576-11A,TCGA-55-7576-11A,54,black or african american,stage ib,2,male,670,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7576-01A,TCGA-55-7576-01A,54,black or african american,stage ib,2,male,670,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8208-01A,TCGA-55-8208-01A,73,white,stage ia,2,female,674,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAQV-11A,TCGA-49-AAQV-11A,63,black or african american,stage ii,1,female,677,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-AAQV-01A,TCGA-49-AAQV-01A,63,black or african american,stage ii,1,female,677,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-6767-01A,TCGA-49-6767-01A,46,white,stage iib,2,female,677,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-6767-11A,TCGA-49-6767-11A,46,white,stage iib,2,female,677,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-7347-11A,TCGA-93-7347-11A,76,white,stage ia,3,female,683,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-93-7347-01A,TCGA-93-7347-01A,76,white,stage ia,3,female,683,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-A48X-01A,TCGA-55-A48X-01A,63,white,stage iia,4,female,689,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-7763-01A,TCGA-69-7763-01A,69,white,stage ia,4,male,690,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-7659-01A,TCGA-44-7659-01A,70,white,stage ia,2,male,691,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7659-11A,TCGA-44-7659-11A,70,white,stage ia,2,male,691,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8075-01A,TCGA-86-8075-01A,66,white,stage ib,1,female,694,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7160-01A,TCGA-78-7160-01A,61,white,stage iv,4,male,697,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-8280-01A,TCGA-86-8280-01A,54,white,stage iia,1,female,701,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-1592-11A,TCGA-55-1592-11A,65,white,stage ia,4,male,701,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1592-01A,TCGA-55-1592-01A,65,white,stage ia,4,male,701,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8089-11A,TCGA-55-8089-11A,56,white,stage ia,2,male,702,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8089-01A,TCGA-55-8089-01A,56,white,stage ia,2,male,702,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6148-01A,TCGA-44-6148-01A,60,white,stage ia,3,male,704,0,Lung Mucinous Adenocarcinoma
+TCGA-44-6148-11A,TCGA-44-6148-11A,60,white,stage ia,3,male,704,0,Lung Mucinous Adenocarcinoma
+TCGA-55-7728-01A,TCGA-55-7728-01A,64,white,stage ib,4,female,704,0,Mucinous (Colloid) Carcinoma
+TCGA-55-7728-11A,TCGA-55-7728-11A,64,white,stage ib,4,female,704,0,Mucinous (Colloid) Carcinoma
+TCGA-44-6775-01A,TCGA-44-6775-01A,72,white,stage ib,4,female,705,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6775-01C,TCGA-44-6775-01C,72,white,stage ib,4,female,705,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6775-11A,TCGA-44-6775-11A,72,white,stage ib,4,female,705,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7724-11A,TCGA-55-7724-11A,76,white,stage ib,4,female,705,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7724-01A,TCGA-55-7724-01A,76,white,stage ib,4,female,705,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4659-01A,TCGA-73-4659-01A,66,white,stage iiia,3,male,711,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4659-11A,TCGA-73-4659-11A,66,white,stage iiia,3,male,711,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-93-A4JN-01A,TCGA-93-A4JN-01A,71,white,stage iv,3,male,718,0,Lung Acinar Adenocarcinoma
+TCGA-44-7672-01A,TCGA-44-7672-01A,52,white,stage ia,2,female,719,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7672-11A,TCGA-44-7672-11A,52,white,stage ia,2,female,719,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8096-01A,TCGA-55-8096-01A,67,white,stage ib,2,female,719,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8096-11A,TCGA-55-8096-11A,67,white,stage ib,2,female,719,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6144-11A,TCGA-44-6144-11A,58,white,stage ia,2,male,723,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6144-01A,TCGA-44-6144-01A,58,white,stage ia,2,male,723,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-J2-8194-01A,TCGA-J2-8194-01A,69,white,stage iib,3,female,724,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-J2-8194-11A,TCGA-J2-8194-11A,69,white,stage iib,3,female,724,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-6146-11A,TCGA-44-6146-11A,64,white,stage iib,3,male,728,0,Lung Mucinous Adenocarcinoma
+TCGA-44-6146-01A,TCGA-44-6146-01A,64,white,stage iib,3,male,728,0,Lung Mucinous Adenocarcinoma
+TCGA-44-6146-01B,TCGA-44-6146-01B,64,white,stage iib,3,male,728,0,Lung Mucinous Adenocarcinoma
+TCGA-05-4245-01A,TCGA-05-4245-01A,81,not reported,stage iiia,4,male,730,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4433-01A,TCGA-05-4433-01A,82,not reported,stage ib,3,male,730,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4397-01A,TCGA-05-4397-01A,65,not reported,stage iib,2,male,731,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-86-A4JF-01A,TCGA-86-A4JF-01A,56,white,stage iib,4,male,737,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-J2-8192-11A,TCGA-J2-8192-11A,65,white,stage iia,1,female,739,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-J2-8192-01A,TCGA-J2-8192-01A,65,white,stage iia,1,female,739,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8073-01A,TCGA-86-8073-01A,58,white,stage ib,2,male,740,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-MP-A4TH-01A,TCGA-MP-A4TH-01A,70,white,stage ia,3,female,741,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-7458-01A,TCGA-99-7458-01A,74,white,stage iiia,4,female,747,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-6984-11A,TCGA-55-6984-11A,71,white,stage iib,NA,female,760,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6984-01A,TCGA-55-6984-01A,71,white,stage iib,NA,female,760,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4430-01A,TCGA-05-4430-01A,59,not reported,stage ib,4,female,761,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4432-01A,TCGA-05-4432-01A,66,not reported,stage iib,2,male,761,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-2668-01B,TCGA-44-2668-01B,51,white,stage ib,4,male,761,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2668-01A,TCGA-44-2668-01A,51,white,stage ib,4,male,761,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2668-11A,TCGA-44-2668-11A,51,white,stage ib,4,male,761,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7815-11A,TCGA-55-7815-11A,76,not reported,stage ib,1,male,773,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7815-01A,TCGA-55-7815-01A,76,not reported,stage ib,1,male,773,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7554-01A,TCGA-97-7554-01A,83,white,stage iiia,3,female,775,0,Lung Papillary Adenocarcinoma
+TCGA-50-6592-01A,TCGA-50-6592-01A,71,white,stage ib,4,female,777,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6592-11A,TCGA-50-6592-11A,71,white,stage ib,4,female,777,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-69-8453-01A,TCGA-69-8453-01A,77,white,stage iib,3,male,788,0,Mucinous (Colloid) Carcinoma
+TCGA-78-7539-01A,TCGA-78-7539-01A,75,white,stage iia,3,female,791,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8513-11A,TCGA-55-8513-11A,77,white,stage iib,1,female,791,0,Mucinous (Colloid) Carcinoma
+TCGA-55-8513-01A,TCGA-55-8513-01A,77,white,stage iib,1,female,791,0,Mucinous (Colloid) Carcinoma
+TCGA-05-4427-01A,TCGA-05-4427-01A,65,not reported,stage iib,4,female,791,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4426-01A,TCGA-05-4426-01A,71,not reported,stage ib,3,male,791,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-73-4666-01A,TCGA-73-4666-01A,52,white,stage iv,4,female,800,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4666-11A,TCGA-73-4666-11A,52,white,stage iv,4,female,800,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-7271-11A,TCGA-38-7271-11A,72,white,stage ia,4,female,800,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-7271-01A,TCGA-38-7271-01A,72,white,stage ia,4,female,800,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-A4P8-01A,TCGA-86-A4P8-01A,59,white,stage iiia,1,female,805,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8674-01A,TCGA-86-8674-01A,50,white,stage iia,4,male,806,0,Lung Papillary Adenocarcinoma
+TCGA-78-7220-01A,TCGA-78-7220-01A,53,white,stage iiia,2,female,807,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-4112-11A,TCGA-44-4112-11A,60,white,stage ib,3,female,808,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-4112-01A,TCGA-44-4112-01A,60,white,stage ib,3,female,808,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-4112-01B,TCGA-44-4112-01B,60,white,stage ib,3,female,808,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-83-5908-01A,TCGA-83-5908-01A,59,white,stage ia,4,female,824,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7570-01A,TCGA-55-7570-01A,60,black or african american,stage ia,2,male,824,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7570-11A,TCGA-55-7570-11A,60,black or african american,stage ia,2,male,824,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7145-01A,TCGA-78-7145-01A,52,white,stage iv,4,female,826,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MN-A4N1-01A,TCGA-MN-A4N1-01A,60,black or african american,stage iia,2,male,827,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-8460-01A,TCGA-50-8460-01A,74,white,stage ia,NA,male,829,0,Lung Papillary Adenocarcinoma
+TCGA-50-8460-11A,TCGA-50-8460-11A,74,white,stage ia,NA,male,829,0,Lung Papillary Adenocarcinoma
+TCGA-95-8039-01A,TCGA-95-8039-01A,72,white,stage ia,1,male,830,0,Lung Acinar Adenocarcinoma
+TCGA-86-8671-01A,TCGA-86-8671-01A,72,white,stage iib,1,female,839,0,Lung Papillary Adenocarcinoma
+TCGA-91-6847-01A,TCGA-91-6847-01A,62,white,stage ib,3,female,842,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6847-11A,TCGA-91-6847-11A,62,white,stage ib,3,female,842,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6147-11A,TCGA-44-6147-11A,67,white,stage ia,3,female,845,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6147-01A,TCGA-44-6147-01A,67,white,stage ia,3,female,845,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6147-01B,TCGA-44-6147-01B,67,white,stage ia,3,female,845,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5645-11A,TCGA-44-5645-11A,61,black or african american,stage ia,3,female,852,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5645-01A,TCGA-44-5645-01A,61,black or african american,stage ia,3,female,852,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5645-01B,TCGA-44-5645-01B,61,black or african american,stage ia,3,female,852,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4487-01A,TCGA-49-4487-01A,72,white,stage ia,4,female,855,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4487-11A,TCGA-49-4487-11A,72,white,stage ia,4,female,855,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8673-01A,TCGA-86-8673-01A,61,white,stage ib,2,male,862,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-44-5644-11A,TCGA-44-5644-11A,51,white,stage ib,2,female,863,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5644-01A,TCGA-44-5644-01A,51,white,stage ib,2,female,863,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4629-11A,TCGA-38-4629-11A,68,white,stage iib,4,male,864,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4629-01A,TCGA-38-4629-01A,68,white,stage iib,4,male,864,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-5779-01A,TCGA-64-5779-01A,61,white,stage iiia,4,male,864,0,Lung Acinar Adenocarcinoma
+TCGA-64-5815-01A,TCGA-64-5815-01A,74,white,stage iib,3,male,866,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-4488-11A,TCGA-49-4488-11A,74,white,stage ia,3,female,869,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4488-01A,TCGA-49-4488-01A,74,white,stage ia,3,female,869,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7281-11A,TCGA-55-7281-11A,70,white,stage ia,4,female,872,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7281-01A,TCGA-55-7281-01A,70,white,stage ia,4,female,872,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR4-01A,TCGA-49-AAR4-01A,51,black or african american,stage iiia,2,male,879,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR4-11A,TCGA-49-AAR4-11A,51,black or african american,stage iiia,2,male,879,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7670-01A,TCGA-44-7670-01A,47,white,stage iia,2,female,882,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7670-11A,TCGA-44-7670-11A,47,white,stage iia,2,female,882,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-5425-01A,TCGA-05-5425-01A,68,not reported,stage iib,3,male,882,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8206-01A,TCGA-55-8206-01A,56,white,stage ia,1,male,888,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8206-11A,TCGA-55-8206-11A,56,white,stage ia,1,male,888,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7671-01A,TCGA-44-7671-01A,64,black or african american,stage ib,3,male,889,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-7671-11A,TCGA-44-7671-11A,64,black or african american,stage ib,3,male,889,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-7995-01A,TCGA-55-7995-01A,73,white,stage ia,4,female,889,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7995-11A,TCGA-55-7995-11A,73,white,stage ia,4,female,889,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-A456-01A,TCGA-86-A456-01A,78,asian,stage ia,4,female,896,0,Lung Papillary Adenocarcinoma
+TCGA-MP-A4TE-01A,TCGA-MP-A4TE-01A,56,white,stage iia,4,male,896,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4510-11A,TCGA-49-4510-11A,51,black or african american,stage iib,2,female,896,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4510-01A,TCGA-49-4510-01A,51,black or african american,stage iib,2,female,896,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-8085-01A,TCGA-55-8085-01A,64,white,stage ia,2,male,904,0,Lung Papillary Adenocarcinoma
+TCGA-55-8085-11A,TCGA-55-8085-11A,64,white,stage ia,2,male,904,0,Lung Papillary Adenocarcinoma
+TCGA-49-4512-11A,TCGA-49-4512-11A,69,white,stage iiia,1,female,905,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4512-01A,TCGA-49-4512-01A,69,white,stage iiia,1,female,905,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A472-01A,TCGA-62-A472-01A,70,white,stage iib,2,male,910,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4420-01A,TCGA-05-4420-01A,41,not reported,stage ib,2,male,912,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4424-01A,TCGA-05-4424-01A,70,not reported,stage iib,4,male,913,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-73-4675-01A,TCGA-73-4675-01A,59,white,stage iiia,4,male,922,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4675-11A,TCGA-73-4675-11A,59,white,stage iiia,4,male,922,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-53-7626-01A,TCGA-53-7626-01A,76,white,stage iia,4,female,929,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-5899-01A,TCGA-55-5899-01A,58,white,not reported,2,male,930,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8669-01A,TCGA-86-8669-01A,64,white,stage ia,2,male,938,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8278-01A,TCGA-86-8278-01A,63,white,stage iib,1,female,944,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-7701-01A,TCGA-86-7701-01A,66,white,stage iv,1,male,947,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7535-01A,TCGA-78-7535-01A,45,white,stage ib,2,male,949,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8279-01A,TCGA-86-8279-01A,46,white,stage iia,1,male,949,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4TA-01A,TCGA-MP-A4TA-01A,75,white,stage ia,4,female,950,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7227-01A,TCGA-55-7227-01A,77,white,stage iiia,3,male,952,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7156-01A,TCGA-78-7156-01A,62,white,stage iv,3,male,976,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-8207-01A,TCGA-55-8207-01A,73,white,stage ib,3,male,977,0,Lung Acinar Adenocarcinoma
+TCGA-55-8207-11A,TCGA-55-8207-11A,73,white,stage ib,3,male,977,0,Lung Acinar Adenocarcinoma
+TCGA-44-6777-01A,TCGA-44-6777-01A,85,white,stage ib,4,female,987,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6777-11A,TCGA-44-6777-11A,85,white,stage ib,4,female,987,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-J2-A4AG-01A,TCGA-J2-A4AG-01A,66,white,stage ia,3,female,988,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8076-01A,TCGA-86-8076-01A,42,white,stage ia,1,male,993,0,Lung Papillary Adenocarcinoma
+TCGA-55-7574-11A,TCGA-55-7574-11A,64,white,stage ib,4,female,995,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7574-01A,TCGA-55-7574-01A,64,white,stage ib,4,female,995,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6982-01A,TCGA-55-6982-01A,79,white,stage iib,1,female,995,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6982-11A,TCGA-55-6982-11A,79,white,stage iib,1,female,995,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-7953-01A,TCGA-86-7953-01A,69,white,stage ia,1,female,997,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4506-01A,TCGA-49-4506-01A,68,white,stage iib,2,female,999,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4506-11A,TCGA-49-4506-11A,68,white,stage iib,2,female,999,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5643-01A,TCGA-44-5643-01A,53,black or african american,stage iiia,2,male,1013,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-5643-11A,TCGA-44-5643-11A,53,black or african american,stage iiia,2,male,1013,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3919-11A,TCGA-44-3919-11A,71,white,stage ia,1,female,1026,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3919-01A,TCGA-44-3919-01A,71,white,stage ia,1,female,1026,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3918-11A,TCGA-44-3918-11A,60,white,stage ia,3,female,1036,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3918-01B,TCGA-44-3918-01B,60,white,stage ia,3,female,1036,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3918-01A,TCGA-44-3918-01A,60,white,stage ia,3,female,1036,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7910-11A,TCGA-55-7910-11A,50,black or african american,stage iia,4,female,1040,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-7910-01A,TCGA-55-7910-01A,50,black or african american,stage iia,4,female,1040,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-53-7624-01A,TCGA-53-7624-01A,40,white,stage iv,2,female,1043,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-7711-01A,TCGA-86-7711-01A,70,white,stage iia,2,male,1046,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-7711-11A,TCGA-86-7711-11A,70,white,stage iia,2,male,1046,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8025-01A,TCGA-99-8025-01A,72,black or african american,stage iiia,4,female,1060,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-53-A4EZ-01A,TCGA-53-A4EZ-01A,63,white,stage iia,3,male,1071,0,Lung Acinar Adenocarcinoma
+TCGA-86-7955-01A,TCGA-86-7955-01A,62,white,stage ib,1,male,1072,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4630-01A,TCGA-38-4630-01A,75,white,stage ib,1,female,1073,1,Lung Papillary Adenocarcinoma
+TCGA-38-4630-11A,TCGA-38-4630-11A,75,white,stage ib,1,female,1073,1,Lung Papillary Adenocarcinoma
+TCGA-J2-A4AE-01A,TCGA-J2-A4AE-01A,77,white,stage ia,1,female,1079,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4494-11A,TCGA-49-4494-11A,77,white,stage iiia,3,male,1081,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4494-01A,TCGA-49-4494-01A,77,white,stage iiia,3,male,1081,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7667-11A,TCGA-44-7667-11A,49,white,stage iib,2,female,1097,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-7667-01A,TCGA-44-7667-01A,49,white,stage iib,2,female,1097,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-75-6214-01A,TCGA-75-6214-01A,NA,not reported,stage iiia,2,female,1115,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8028-11A,TCGA-99-8028-11A,50,black or african american,stage ia,4,female,1118,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-99-8028-01A,TCGA-99-8028-01A,50,black or african american,stage ia,4,female,1118,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-8459-11A,TCGA-50-8459-11A,68,white,stage iib,2,male,1119,0,Mucinous (Colloid) Carcinoma
+TCGA-50-8459-01A,TCGA-50-8459-01A,68,white,stage iib,2,male,1119,0,Mucinous (Colloid) Carcinoma
+TCGA-50-8457-01A,TCGA-50-8457-01A,63,black or african american,stage ia,4,female,1125,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-8457-11A,TCGA-50-8457-11A,63,black or african american,stage ia,4,female,1125,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-05-4390-01A,TCGA-05-4390-01A,58,not reported,stage ib,4,female,1126,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-64-1680-01A,TCGA-64-1680-01A,63,white,stage iv,3,male,1126,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-44-3396-11A,TCGA-44-3396-11A,74,white,stage iiia,2,female,1130,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3396-01A,TCGA-44-3396-01A,74,white,stage iiia,2,female,1130,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARN-01A,TCGA-49-AARN-01A,56,black or african american,stage ia,5,female,1135,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARN-11A,TCGA-49-AARN-11A,56,black or african american,stage ia,5,female,1135,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4T2-01A,TCGA-MP-A4T2-01A,71,white,stage ia,4,male,1136,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4627-01A,TCGA-38-4627-01A,64,white,stage iia,4,female,1147,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4627-11A,TCGA-38-4627-11A,64,white,stage iia,4,female,1147,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-8054-01A,TCGA-86-8054-01A,61,white,stage iib,2,male,1148,0,Lung Acinar Adenocarcinoma
+TCGA-86-7713-01A,TCGA-86-7713-01A,70,white,stage iia,1,male,1157,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-86-7713-11A,TCGA-86-7713-11A,70,white,stage iia,1,male,1157,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2661-01A,TCGA-44-2661-01A,69,white,stage ia,1,female,1159,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2661-11A,TCGA-44-2661-11A,69,white,stage ia,1,female,1159,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3398-01A,TCGA-44-3398-01A,77,white,stage ia,4,female,1163,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3398-11B,TCGA-44-3398-11B,77,white,stage ia,4,female,1163,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-1681-01A,TCGA-64-1681-01A,61,white,stage ia,3,female,1167,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7155-01A,TCGA-78-7155-01A,68,white,stage ib,4,male,1171,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MN-A4N4-01A,TCGA-MN-A4N4-01A,57,white,stage ia,2,male,1175,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1594-01A,TCGA-55-1594-01A,68,white,stage iiia,2,male,1178,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1594-11A,TCGA-55-1594-11A,68,white,stage iiia,2,male,1178,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3917-01A,TCGA-44-3917-01A,33,white,stage ib,2,female,1183,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3917-01B,TCGA-44-3917-01B,33,white,stage ib,2,female,1183,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-3917-11A,TCGA-44-3917-11A,33,white,stage ib,2,female,1183,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-1678-01A,TCGA-64-1678-01A,70,white,not reported,3,female,1189,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-7498-01A,TCGA-73-7498-01A,58,white,stage ia,4,female,1189,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-62-A470-01A,TCGA-62-A470-01A,84,white,stage ib,3,male,1194,1,Lung Acinar Adenocarcinoma
+TCGA-78-7540-11A,TCGA-78-7540-11A,66,white,stage ib,1,female,1197,1,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-78-7540-01A,TCGA-78-7540-01A,66,white,stage ib,1,female,1197,1,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-78-8648-01A,TCGA-78-8648-01A,58,not reported,stage iib,2,female,1209,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7152-01A,TCGA-78-7152-01A,65,white,stage ib,4,male,1215,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8395-01A,TCGA-62-8395-01A,80,white,stage iib,1,female,1216,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8395-11A,TCGA-62-8395-11A,80,white,stage iib,1,female,1216,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-AARE-01A,TCGA-49-AARE-01A,51,black or african american,stage ia,4,female,1229,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARE-11A,TCGA-49-AARE-11A,51,black or african american,stage ia,4,female,1229,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6985-11A,TCGA-55-6985-11A,58,white,stage ib,4,female,1233,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6985-01A,TCGA-55-6985-01A,58,white,stage ib,4,female,1233,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5932-11A,TCGA-50-5932-11A,75,white,stage iib,NA,male,1235,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5932-01A,TCGA-50-5932-01A,75,white,stage iib,NA,male,1235,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6969-01A,TCGA-55-6969-01A,52,white,stage ib,4,male,1239,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6969-11A,TCGA-55-6969-11A,52,white,stage ib,4,male,1239,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A471-01A,TCGA-62-A471-01A,64,white,stage iib,4,male,1246,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2664-01A,TCGA-44-2664-01A,66,black or african american,stage ia,2,female,1251,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-91-6829-01A,TCGA-91-6829-01A,78,white,stage ib,4,male,1258,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-91-6829-11A,TCGA-91-6829-11A,78,white,stage ib,4,male,1258,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-MP-A4T9-01A,TCGA-MP-A4T9-01A,54,white,stage iiia,4,female,1265,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6597-01A,TCGA-50-6597-01A,79,white,stage ib,1,female,1268,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-95-7039-01A,TCGA-95-7039-01A,54,white,stage iib,2,female,1272,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2662-01A,TCGA-44-2662-01A,65,white,stage ib,3,male,1280,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2662-01B,TCGA-44-2662-01B,65,white,stage ib,3,male,1280,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2662-11A,TCGA-44-2662-11A,65,white,stage ib,3,male,1280,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7546-01A,TCGA-97-7546-01A,76,white,stage ia,3,female,1285,0,Lung Acinar Adenocarcinoma
+TCGA-50-6590-01A,TCGA-50-6590-01A,72,white,stage ib,4,female,1288,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-6590-11A,TCGA-50-6590-11A,72,white,stage ib,4,female,1288,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-8397-01A,TCGA-62-8397-01A,70,white,stage iib,1,female,1289,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8397-11A,TCGA-62-8397-11A,70,white,stage iib,1,female,1289,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6968-01A,TCGA-55-6968-01A,61,white,stage iv,2,male,1293,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6968-11A,TCGA-55-6968-11A,61,white,stage iv,2,male,1293,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2665-11A,TCGA-44-2665-11A,55,white,stage iib,1,female,1301,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2665-01B,TCGA-44-2665-01B,55,white,stage iib,1,female,1301,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2665-01A,TCGA-44-2665-01A,55,white,stage iib,1,female,1301,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-5778-01A,TCGA-64-5778-01A,60,white,stage ib,4,male,1305,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-44-2655-01A,TCGA-44-2655-01A,65,white,stage ia,3,female,1324,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2655-11A,TCGA-44-2655-11A,65,white,stage ia,3,female,1324,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-75-5147-01A,TCGA-75-5147-01A,NA,not reported,stage ib,1,female,1333,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2657-01A,TCGA-44-2657-01A,74,white,stage ib,4,female,1351,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2657-11A,TCGA-44-2657-11A,74,white,stage ib,4,female,1351,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4632-01A,TCGA-38-4632-01A,42,black or african american,stage iv,4,male,1357,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4632-11A,TCGA-38-4632-11A,42,black or african american,stage iv,4,male,1357,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2659-11A,TCGA-44-2659-11A,65,white,stage iib,4,female,1367,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2659-01A,TCGA-44-2659-01A,65,white,stage iib,4,female,1367,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4389-01A,TCGA-05-4389-01A,70,not reported,stage ia,3,male,1369,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6981-01A,TCGA-55-6981-01A,53,white,stage iiia,3,female,1379,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6981-11A,TCGA-55-6981-11A,53,white,stage iiia,3,female,1379,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6971-11A,TCGA-55-6971-11A,59,white,stage ib,4,female,1400,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6971-01A,TCGA-55-6971-01A,59,white,stage ib,4,female,1400,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4501-11A,TCGA-49-4501-11A,67,white,stage ib,1,female,1421,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4501-01A,TCGA-49-4501-01A,67,white,stage ib,1,female,1421,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2656-01A,TCGA-44-2656-01A,59,white,stage ib,4,male,1429,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2656-01B,TCGA-44-2656-01B,59,white,stage ib,4,male,1429,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-2656-11A,TCGA-44-2656-11A,59,white,stage ib,4,male,1429,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-05-4398-01A,TCGA-05-4398-01A,47,not reported,stage iiib,2,female,1431,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-NJ-A4YQ-01A,TCGA-NJ-A4YQ-01A,69,white,stage ia,4,female,1432,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5066-01A,TCGA-50-5066-01A,72,black or african american,stage ib,1,male,1442,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5066-02A,TCGA-50-5066-02A,72,black or african american,stage ib,1,male,1442,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-A46O-01A,TCGA-62-A46O-01A,65,white,stage ib,2,female,1454,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5941-01A,TCGA-50-5941-01A,55,white,stage iiia,2,female,1474,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1595-01A,TCGA-55-1595-01A,74,asian,stage ia,4,female,1479,0,Lung Clear Cell Adenocarcinoma
+TCGA-55-1595-11A,TCGA-55-1595-11A,74,asian,stage ia,4,female,1479,0,Lung Clear Cell Adenocarcinoma
+TCGA-38-4628-11A,TCGA-38-4628-11A,65,white,stage iib,1,female,1492,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4628-01A,TCGA-38-4628-01A,65,white,stage iib,1,female,1492,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-8402-11A,TCGA-62-8402-11A,73,white,stage iiia,1,female,1498,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-62-8402-01A,TCGA-62-8402-01A,73,white,stage iiia,1,female,1498,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5068-01A,TCGA-50-5068-01A,59,white,stage iib,NA,female,1499,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4SY-01A,TCGA-MP-A4SY-01A,61,white,stage iib,4,male,1501,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-75-6212-01A,TCGA-75-6212-01A,NA,not reported,stage iib,1,female,1516,1,Lung Micropapillary Adenocarcinoma
+TCGA-05-4249-01A,TCGA-05-4249-01A,67,not reported,stage ib,3,male,1523,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7633-01A,TCGA-78-7633-01A,67,white,stage ib,4,male,1528,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-73-7499-01A,TCGA-73-7499-01A,81,white,stage ib,1,female,1531,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-64-5781-01A,TCGA-64-5781-01A,55,white,stage ib,4,female,1559,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-73-4658-01A,TCGA-73-4658-01A,80,white,stage ib,3,female,1600,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4658-11A,TCGA-73-4658-11A,80,white,stage ib,3,female,1600,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5946-02A,TCGA-50-5946-02A,62,white,stage ia,4,male,1617,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5946-01A,TCGA-50-5946-01A,62,white,stage ia,4,male,1617,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-6743-11A,TCGA-49-6743-11A,81,white,stage iiia,4,female,1621,0,Lung Clear Cell Adenocarcinoma
+TCGA-49-6743-01A,TCGA-49-6743-01A,81,white,stage iiia,4,female,1621,0,Lung Clear Cell Adenocarcinoma
+TCGA-78-7537-01A,TCGA-78-7537-01A,72,not reported,stage ib,3,male,1622,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6972-11A,TCGA-55-6972-11A,72,white,stage ib,2,male,1632,1,Lung Papillary Adenocarcinoma
+TCGA-55-6972-01A,TCGA-55-6972-01A,72,white,stage ib,2,male,1632,1,Lung Papillary Adenocarcinoma
+TCGA-62-A46S-01A,TCGA-62-A46S-01A,73,white,stage ib,4,male,1653,1,Lung Papillary Adenocarcinoma
+TCGA-49-6744-01A,TCGA-49-6744-01A,64,white,stage iia,4,female,1683,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-6744-11A,TCGA-49-6744-11A,64,white,stage iia,4,female,1683,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-4514-01A,TCGA-49-4514-01A,79,white,stage ia,3,female,1700,0,Lung Papillary Adenocarcinoma
+TCGA-49-4514-11A,TCGA-49-4514-11A,79,white,stage ia,3,female,1700,0,Lung Papillary Adenocarcinoma
+TCGA-62-A46R-01A,TCGA-62-A46R-01A,54,white,stage ib,4,female,1725,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-64-1676-01A,TCGA-64-1676-01A,58,white,stage ia,2,male,1728,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5944-01A,TCGA-50-5944-01A,69,white,stage ia,NA,female,1750,0,Lung Acinar Adenocarcinoma
+TCGA-MP-A4SW-01A,TCGA-MP-A4SW-01A,53,white,stage iib,3,male,1778,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4T6-01A,TCGA-MP-A4T6-01A,76,white,stage iiia,3,female,1790,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-O1-A52J-01A,TCGA-O1-A52J-01A,74,white,stage ia,3,female,1798,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5055-01A,TCGA-50-5055-01A,79,white,stage iia,NA,female,1830,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5942-01A,TCGA-50-5942-01A,67,white,stage ia,4,female,1847,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6778-11A,TCGA-44-6778-11A,59,black or african american,stage ia,4,male,1864,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6778-01A,TCGA-44-6778-01A,59,black or african american,stage ia,4,male,1864,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7553-01A,TCGA-97-7553-01A,58,white,stage ia,2,female,1870,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-49-AAR3-11A,TCGA-49-AAR3-11A,69,black or african american,stage iib,NA,male,1893,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR3-01A,TCGA-49-AAR3-01A,69,black or african american,stage iib,NA,male,1893,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-97-7552-01A,TCGA-97-7552-01A,70,white,stage ib,3,male,1932,0,Lung Bronchioloalveolar Carcinoma Mucinous
+TCGA-97-7547-01A,TCGA-97-7547-01A,67,white,stage ib,3,female,1965,0,Lung Papillary Adenocarcinoma
+TCGA-78-7159-01A,TCGA-78-7159-01A,60,white,stage ia,4,female,1974,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-75-5125-01A,TCGA-75-5125-01A,NA,not reported,stage iib,3,male,2027,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1596-01A,TCGA-55-1596-01A,55,asian,stage iib,2,male,2065,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-1596-11A,TCGA-55-1596-11A,55,asian,stage iib,2,male,2065,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A46U-01A,TCGA-62-A46U-01A,71,white,stage iib,1,female,2067,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6980-01A,TCGA-55-6980-01A,56,white,stage ia,1,male,2109,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-6980-11A,TCGA-55-6980-11A,56,white,stage ia,1,male,2109,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-6987-11A,TCGA-55-6987-11A,77,white,stage ia,4,male,2137,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6987-01A,TCGA-55-6987-01A,77,white,stage ia,4,male,2137,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A4YF-01A,TCGA-NJ-A4YF-01A,50,black or african american,stage ia,3,female,2161,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-50-5045-01A,TCGA-50-5045-01A,57,black or african american,not reported,NA,female,2174,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-62-A46V-01A,TCGA-62-A46V-01A,78,white,stage ib,3,female,2199,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-AAR2-11A,TCGA-49-AAR2-11A,64,black or african american,stage ib,4,male,2224,0,Lung Acinar Adenocarcinoma
+TCGA-49-AAR2-01A,TCGA-49-AAR2-01A,64,black or african american,stage ib,4,male,2224,0,Lung Acinar Adenocarcinoma
+TCGA-MP-A5C7-01A,TCGA-MP-A5C7-01A,76,white,stage ib,3,female,2248,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-NJ-A4YG-01A,TCGA-NJ-A4YG-01A,65,white,stage ib,4,male,2261,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4486-01A,TCGA-49-4486-01A,72,white,stage ia,3,male,2318,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-4486-11A,TCGA-49-4486-11A,72,white,stage ia,3,male,2318,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-8655-01A,TCGA-78-8655-01A,77,not reported,stage ia,4,female,2360,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-75-5146-01A,TCGA-75-5146-01A,NA,not reported,stage ib,3,male,2368,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5933-11A,TCGA-50-5933-11A,72,white,stage iiib,NA,male,2393,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5933-01A,TCGA-50-5933-01A,72,white,stage iiib,NA,male,2393,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6642-01A,TCGA-55-6642-01A,63,white,stage ib,2,male,2449,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-55-6642-11A,TCGA-55-6642-11A,63,white,stage ib,2,male,2449,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-1679-01A,TCGA-64-1679-01A,58,white,stage iiia,2,female,2488,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4662-11A,TCGA-73-4662-11A,65,white,stage ia,3,female,2515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-73-4662-01A,TCGA-73-4662-01A,65,white,stage ia,3,female,2515,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-75-6206-01A,TCGA-75-6206-01A,NA,not reported,stage ib,3,male,2590,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-80-5611-01A,TCGA-80-5611-01A,NA,not reported,stage ib,4,male,2595,0,Lung Solid Pattern Predominant Adenocarcinoma
+TCGA-44-6776-01A,TCGA-44-6776-01A,60,white,stage ia,4,female,2616,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-44-6776-11A,TCGA-44-6776-11A,60,white,stage ia,4,female,2616,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4T4-01A,TCGA-MP-A4T4-01A,68,white,stage iib,2,female,2617,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-MP-A4SV-01A,TCGA-MP-A4SV-01A,67,not reported,stage ib,2,male,2620,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-64-5774-01A,TCGA-64-5774-01A,60,white,stage ib,4,male,2676,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7167-01A,TCGA-78-7167-01A,77,white,stage iv,2,male,2681,1,Lung Papillary Adenocarcinoma
+TCGA-78-7167-11A,TCGA-78-7167-11A,77,white,stage iv,2,male,2681,1,Lung Papillary Adenocarcinoma
+TCGA-62-8399-11A,TCGA-62-8399-11A,62,white,stage iiia,4,male,2696,0,Lung Papillary Adenocarcinoma
+TCGA-62-8399-01A,TCGA-62-8399-01A,62,white,stage iiia,4,male,2696,0,Lung Papillary Adenocarcinoma
+TCGA-55-6983-01A,TCGA-55-6983-01A,81,white,stage iib,4,male,2823,0,Mucinous (Colloid) Carcinoma
+TCGA-55-6983-11A,TCGA-55-6983-11A,81,white,stage iib,4,male,2823,0,Mucinous (Colloid) Carcinoma
+TCGA-80-5608-01A,TCGA-80-5608-01A,NA,not reported,stage ia,2,female,2832,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4625-01A,TCGA-38-4625-01A,66,white,stage ib,2,female,2973,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4625-11A,TCGA-38-4625-11A,66,white,stage ib,2,female,2973,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-75-7027-01A,TCGA-75-7027-01A,NA,not reported,stage ib,2,male,3059,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-50-5049-01A,TCGA-50-5049-01A,70,white,stage ia,NA,male,3094,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7162-11A,TCGA-78-7162-11A,75,white,stage ia,2,male,3169,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-78-7162-01A,TCGA-78-7162-01A,75,white,stage ia,2,male,3169,1,Lung Adenocarcinoma Mixed Subtype
+TCGA-55-6986-11A,TCGA-55-6986-11A,74,white,stage ib,1,female,3261,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-55-6986-01A,TCGA-55-6986-01A,74,white,stage ib,1,female,3261,0,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-75-7025-01A,TCGA-75-7025-01A,NA,not reported,stage ib,3,male,3305,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-8662-01A,TCGA-78-8662-01A,53,not reported,stage ib,2,female,3361,1,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7153-01A,TCGA-78-7153-01A,65,white,stage ib,4,female,3635,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-38-4626-01A,TCGA-38-4626-01A,57,white,not reported,2,female,3674,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-38-4626-11A,TCGA-38-4626-11A,57,white,not reported,2,female,3674,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARO-01A,TCGA-49-AARO-01A,39,black or african american,stage ia,2,female,3759,0,Lung Papillary Adenocarcinoma
+TCGA-49-AARO-11A,TCGA-49-AARO-11A,39,black or african american,stage ia,2,female,3759,0,Lung Papillary Adenocarcinoma
+TCGA-78-7149-01A,TCGA-78-7149-01A,71,white,stage iiib,2,male,3940,0,Lung Adenocarcinoma Mixed Subtype
+TCGA-49-AAR0-11A,TCGA-49-AAR0-11A,57,black or african american,stage ia,2,male,4765,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AAR0-01A,TCGA-49-AAR0-01A,57,black or african american,stage ia,2,male,4765,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7143-01A,TCGA-78-7143-01A,62,white,stage ib,1,female,4961,1,Lung Bronchioloalveolar Carcinoma Nonmucinous
+TCGA-49-AARR-11A,TCGA-49-AARR-11A,68,black or african american,stage ia,3,male,4992,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARR-01A,TCGA-49-AARR-01A,68,black or african american,stage ia,3,male,4992,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARQ-11A,TCGA-49-AARQ-11A,41,black or african american,stage i,4,female,6732,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-49-AARQ-01A,TCGA-49-AARQ-01A,41,black or african american,stage i,4,female,6732,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-8640-11A,TCGA-78-8640-11A,59,not reported,stage iia,2,male,7062,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-8640-01A,TCGA-78-8640-01A,59,not reported,stage iia,2,male,7062,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7163-11A,TCGA-78-7163-11A,60,white,stage ib,4,male,7248,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
+TCGA-78-7163-01A,TCGA-78-7163-01A,60,white,stage ib,4,male,7248,0,Lung Adenocarcinoma- Not Otherwise Specified (NOS)
