@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SBU Hacks</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDghAy581yi2FVLRV88sHsakZK0qm5UNAE",
+            authDomain: "sbuhacks-cancer-backend.firebaseapp.com",
+            databaseURL: "https://sbuhacks-cancer-backend.firebaseio.com",
+            projectId: "sbuhacks-cancer-backend",
+            storageBucket: "sbuhacks-cancer-backend.appspot.com",
+            messagingSenderId: "773297593173"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <!-- jQuery -->
+    <script src="../static/script/jquery-3.3.1.min.js"></script>
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- Graph -->
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <!-- Local -->
+    <script src="../static/script/app.js"></script>
+    <link rel="stylesheet" href="../static/style/style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1>Cancer Data Visualizer</h1>
+                <div class="row jumbotron">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-9">
+                                <h3>Graph</h3>
+                            </div>
+                            <div class="col-3">
+                                <h3>Feature</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-9">
+                                <div id="graph">
+
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="input-group mb-3">
+                                    <select id="feature_selection">
+                                        <option value="age">Age</option>
+                                        <option value="race">Race</option>
+                                        <option value="tumor_stage">Tumor Stage</option>
+                                        <option value="tobacco_history">Tobacco Usage</option>
+                                        <option value="amount_of_alcohol_consumption_per_day">Alcohol Consumption Daily</option>
+                                        <option value="gender">Gender</option>
+                                        <option value="histological_type">Cancer Type</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
