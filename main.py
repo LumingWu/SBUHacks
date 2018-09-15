@@ -21,11 +21,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
+    """Return a friendly HTTP greeting."""
     return render_template('index.html')
 
-@app.route('/chart', method='POST')
-def chart():
-    return 'Some Json'
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8080)
