@@ -33,14 +33,21 @@
         <div class="row">
             <div class="col-12">
                 <h1>Cancer Data Visualizer</h1>
-                <div class="row jumbotron extended-height">
+                <div id="main-background" class="row jumbotron extended-height">
                     <div class="col-12">
+                        <div class="row">
+                            <div class="col-12">
+                                <h2>Comparison by Feature</h2>
+                            </div>
+                        </div>
                         <div class="row">
                             <div class="col-9">
                                 <h3>Graph</h3>
+                                <hr>
                             </div>
                             <div class="col-3">
                                 <h3>Feature</h3>
+                                <hr>
                             </div>
                         </div>
                         <div class="row">
@@ -53,13 +60,11 @@
                                 <div class="input-group mb-3">
                                     <select id="feature_selection">
                                         <option value="select" selected>Select</option>
-                                        <option value="age">Age</option>
+                                        <option value="age_group">Age</option>
                                         <option value="race">Race</option>
-                                        <option value="tumor_stage">Tumor Stage</option>
-                                        <option value="tobacco_history">Tobacco Usage</option>
-                                        <option value="amount_of_alcohol_consumption_per_day">Alcohol Consumption Daily</option>
+                                        <option value="stage">Tumor Stage</option>
                                         <option value="gender">Gender</option>
-                                        <option value="histological_type">Cancer Type</option>
+                                        <option value="tobacco_history">Tobacco Dose</option>
                                     </select>
                                 </div>
                             </div>

@@ -1,70 +1,69 @@
 $(document).ready(function () {
-        // Initialize Firebase
-        var firebase_comparison_chart_handler = null;
-        var firebase_comparison_feature = null;
+    // Initialize Firebase
+    var firebase_comparison_chart_handler = null;
+    var firebase_comparison_feature = null;
 
-        google.charts.load('current', {'packages': ['bar']});
+    google.charts.load('current', {'packages': ['bar']});
+    var classes = ["(0,500]", "(500,1e+03]", "(1e+03,1.5e+03]", "(1.5e+03,2e+03]", "(2e+03,2.5e+03]", "(2.5e+03,3e+03]", "(3e+03,3.5e+03]"
+        , "(3.5e+03,4e+03]", "(4e+03,4.5e+03]", "(4.5e+03,5e+03]", "(5e+03,5.5e+03]", "(5.5e+03,6e+03]", "(6e+03,6.5e+03]", "(6.5e+03,7e+03]"
+        , "(7e+03,7.5e+03]", "(7.5e+03,8e+03]", "(8e+03,8.5e+03]", "(8.5e+03,9e+03]"]
+    var class_len = classes.length;
 
-        function drawChart(data) {
-            var data = google.visualization.arrayToDataTable([
-                ['Year', 'Sales', 'Expenses', 'Profit'],
-                ['2014', 1000, 400, 200],
-                ['2015', 1170, 460, 250],
-                ['2016', 660, 1120, 300],
-                ['2017', 1030, 540, 350]
-            ]);
-
-            var options = {
-                chart: {
-                    title: 'Survivability by Group',
-                    subtitle: 'Select a Group ->',
-                },
-                bars: 'horizontal' // Required for Material Bar Charts.
-            };
-
-            var chart = new google.charts.Bar(document.getElementById('graph'));
-
-            chart.draw(data, google.charts.Bar.convertOptions(options));
+    function drawChart(data, keys) {
+        var series = new Object();
+        var x_axes = {};
+        var axes = {x:x_axes};
+        var key_len = keys.length;
+        for (var key_index = 0; key_index < key_len; key_index++) {
+            series[key_index] = {axis: keys[key_index]};
+            x_axes[keys[key_index]] = {label:""};
         }
+        x_axes[keys[0]] = {label:"Survivability (Percentage)"};
+        var first_key = keys[0];
+        var options = {
+            chart: {
+                title: 'Survivability by Group',
+                subtitle: 'Select a Group at the Right',
+            },
+            titleTextStyle: {
+                fontSize: 24, // 12, 18 whatever you want (don't specify px)
+                bold: true,    // true or false
+            },
+            bars: 'horizontal', // Required for Material Bar Charts.
+            series,
+            axes
+        };
+        //hAxis:{title:"Survivability (Percentage)"}
+        var chart = new google.charts.Bar(document.getElementById('graph'));
+
+        chart.draw(google.visualization.arrayToDataTable(data), google.charts.Bar.convertOptions(options));
+    }
 
         $("#feature_selection").click(function () {
             var selection = $("#feature_selection option:selected").val();
             if (selection !== "select") {
                 if (firebase_comparison_chart_handler !== null) {
-                    firebase.database().ref("comparison_chart/" + firebase_comparison_feature).off("value");
+                    firebase.database().ref("LUSC_2/" + firebase_comparison_feature).off("value");
                 }
                 firebase_comparison_feature = selection;
                 firebase_comparison_chart_handler = function (snapshot) {
                     var value = snapshot.val();
-                    alert(value);
-                    var line_len = value.length;
-                    var new_data = [];
-                    for (var i = 0; i < line_len; i++) {
-                        var line = value[i];
-                        var line_coordinates = line.coordinates;
-                        var coordinates_len = line_coordinates.length;
-                        var coordinate_list = [];
-                        for (var j = 0; j < coordinates_len; j++) {
-                            var line_coordinate = line_coordinates[j];
-                            coordinate_list.push({"x": line_coordinate[0], "y": line_coordinate[1]});
-                        }
-                        new_data.push({
-                            type: "line",
-                            axisYType: "secondary",
-                            name: line.label,
-                            showInLegend: true,
-                            markerSize: 0,
-                            dataPoints: coordinate_list
+                    var keys = Object.keys(value);
+                    var data = [["Survive Time (Days)"].concat(keys)];
+                    for (var survive_time = 0; survive_time < class_len; survive_time++) {
+                        var row = [classes[survive_time]];
+                        Object.keys(value).forEach(function eachKey(key) {
+                            row.push(value[key][survive_time]);
                         });
+                        data.push(row);
                     }
-                    console.log(JSON.stringify(new_data));
-                    chart.options.data = new_data;
-                    chart.render();
-                }
-                firebase.database().ref("comparison_chart/" + firebase_comparison_feature).on("value", firebase_comparison_chart_handler);
+                    $("#graph").height(20 * keys.length * class_len);
+                    drawChart(data, keys);
+                };
+                firebase.database().ref("LUSC_2/" + firebase_comparison_feature).on("value", firebase_comparison_chart_handler);
             }
         });
 
 
     }
-);
+    );
