@@ -63,7 +63,5 @@ $(document).ready(function () {
                 firebase.database().ref("LUSC_2/" + firebase_comparison_feature).on("value", firebase_comparison_chart_handler);
             }
         });
-
-
     }
     );

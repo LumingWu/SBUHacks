@@ -13,3 +13,43 @@
 #graph {
     overflow:auto;
 }
+
+#branding-img {
+    width: 500px;
+    height:250px;
+    float:right;
+}
+
+.image-text-container {
+    width: 500px;
+    height: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.center-shadow {
+    color: gray;
+    position: absolute;
+    top: 50.5%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+}
+
+.center-color {
+    color: red;
+    position: absolute;
+    top: 51%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+
+.image-text-container h1 {
+    font-size: 50px;
+}
