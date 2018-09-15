@@ -5,3 +5,7 @@
 .input-group-prepend > .input-group-text {
     border: none;
 }
+
+.extended-height {
+    height: 600px;
+}
