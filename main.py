@@ -14,18 +14,28 @@
 
 # [START app]
 
-from flask import Flask, render_template
+from flask import Flask, render_template, request
+from flask_json import FlaskJSON, JsonError, json_response, as_json
 
 app = Flask(__name__)
-
+json = FlaskJSON(app)
 
 @app.route('/')
 def home():
     return render_template('index.html')
 
-@app.route('/chart', method='POST')
+@app.route('/chart', methods=['POST'])
 def chart():
-    return 'Some Json'
+    """ Do something that will update the Firebase Storage """
+
+@app.route('/ml', methods=['POST'])
+def ml():
+    data = request.get_json()
+    """
+    Do some classification here
+    """
+    return json_response(label="Some_Label that you classified.")
+
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8080)

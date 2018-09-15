@@ -1,7 +1,15 @@
+#main-background{
+    min-height:720px;
+}
+
 .input-group-prepend {
     width: 100px;
 }
 
 .input-group-prepend > .input-group-text {
     border: none;
+}
+
+#graph {
+    overflow:auto;
 }
