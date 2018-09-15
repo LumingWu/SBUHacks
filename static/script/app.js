@@ -1,6 +1,10 @@
 $(document).ready(function(){
     // Initialize Firebase
     firebase.database().ref("chart").on("value", function(snapshot){
+        console.log(snapshot.numChildren());
+        console.log(snapshot.child("1"));
+        console.log(snapshot.child("1").val());
+
         var value = snapshot.val();
         var line_len = value.length;
         var new_data = [];
@@ -16,12 +20,13 @@ $(document).ready(function(){
             new_data.push({
                 type: "line",
                 axisYType: "secondary",
-                name: line["abel"],
+                name: line.label,
                 showInLegend: true,
 		        markerSize: 0,
                 dataPoints: coordinate_list
             });
         }
+        console.log(JSON.stringify(new_data));
         chart.options.data = new_data;
         chart.render();
     });
@@ -34,10 +39,10 @@ $(document).ready(function(){
 		    text: "Survival Time By Group"
 	    },
         axisX: {
-		    title: "Time Spent"
+		    title: "Time Survive (Days)"
 	    },
         axisY2: {
-            title: "Survivability"
+            title: "Probability of Survival"
         },
         legend: {
             cursor: "pointer",
